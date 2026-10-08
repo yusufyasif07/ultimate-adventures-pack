@@ -1,0 +1,21 @@
+filename = 'DarkPaintings-Fabric-1.20.1-17.0.6.jar'
+name = 'Dark Paintings'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'DarkPaintings-Fabric-1.20.1-17.0.6.jar'
+
+[download]
+hash = '04aaae48f8d15f8f99a62f3a342aa0f8a4b1ed74'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7612431
+project-id = 377281
+
+[[x-prismlauncher-dependencies]]
+addonId = '228525'
+type = 'REQUIRED'

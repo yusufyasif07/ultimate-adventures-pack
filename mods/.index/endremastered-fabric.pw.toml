@@ -1,0 +1,21 @@
+filename = 'fabric-end-remastered-5.2.4.jar'
+name = 'End Remastered [Fabric]'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'End Remastered R5.2.4 (1.20.X)'
+
+[download]
+hash = '815834a73e893f6520ea2d12e6b1e3397a1b65b2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4972591
+project-id = 515523
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

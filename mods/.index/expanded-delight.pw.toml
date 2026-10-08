@@ -1,0 +1,18 @@
+filename = 'expandeddelight-0.3.2.jar'
+name = 'Expanded Delight'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'expandeddelight-0.3.2.jar'
+
+[download]
+hash = '694a256f1dae0d70c352fe34c9ce6727c2ef37b3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5708081
+project-id = 620770

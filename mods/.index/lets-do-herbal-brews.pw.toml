@@ -1,0 +1,18 @@
+filename = 'letsdo-herbalbrews-fabric-1.0.12.jar'
+name = "[Let's Do] HerbalBrews"
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'HerbalBrews - 1.0.12 - FABRIC - 1.20.1'
+
+[download]
+hash = '9776b9cd5c06dd76fc7d4b75de971eec9d84bb26'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6458888
+project-id = 951221

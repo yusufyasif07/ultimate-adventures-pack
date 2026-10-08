@@ -1,0 +1,25 @@
+filename = 'adventurez-1.4.20.jar'
+name = 'AdventureZ'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'adventurez-1.4.20+1.20.1'
+
+[download]
+hash = 'a727891db0b750fda3c4e6f15e2781b89c490647'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5043014
+project-id = 390991
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'REQUIRED'

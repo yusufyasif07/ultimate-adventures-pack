@@ -1,0 +1,33 @@
+filename = 'archers-1.3.0+1.20.1.jar'
+name = 'Archers (RPG Series)'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'archers-1.3.0+1.20.1.jar'
+
+[download]
+hash = 'ef28eaebd580ec432330e303ce64eb541e95860c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6096204
+project-id = 932359
+
+[[x-prismlauncher-dependencies]]
+addonId = '807653'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '962162'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '912767'
+type = 'REQUIRED'

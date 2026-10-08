@@ -1,0 +1,21 @@
+filename = 'melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar'
+name = 'Melody'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Fabric] v1.0.4 MC 1.20.1-1.20.4'
+
+[download]
+hash = '15eeff0c0fd8b4734492915c656077592b2d9e67'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5139711
+project-id = 938643
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

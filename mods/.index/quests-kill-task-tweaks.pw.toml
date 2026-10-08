@@ -1,0 +1,21 @@
+filename = 'Quest Kill Task-0.2.0+1.20.1-fabric.jar'
+name = 'Quests Kill Task Tweaks'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Fabric-0.2.0+1.20.1'
+
+[download]
+hash = '600a2a128c15462ab09a2453a838570a04b148b8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6237237
+project-id = 1161828
+
+[[x-prismlauncher-dependencies]]
+addonId = '438496'
+type = 'REQUIRED'

@@ -1,0 +1,33 @@
+filename = 'immersivelanterns-fabric-1.0.6-1.20.1.jar'
+name = "Toni's Immersive Lanterns"
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ImmersiveLanterns Fabric 1.0.6 for 1.20.1'
+
+[download]
+hash = '15348c0ff30cfdb43c1cc262f4a8ea5a00064518'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6052949
+project-id = 1116812
+
+[[x-prismlauncher-dependencies]]
+addonId = '551736'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '938917'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1104882'
+type = 'REQUIRED'

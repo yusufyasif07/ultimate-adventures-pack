@@ -1,0 +1,33 @@
+filename = 'betterarcheology-1.2.1-1.20.1.jar'
+name = 'Better Archeology'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Better Archeology 1.2.1 for 1.20.1 [FABRIC]'
+
+[download]
+hash = '6bdf69749295de368fac4ee1822c2517a1f345a8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5704094
+project-id = 835687
+
+[[x-prismlauncher-dependencies]]
+addonId = '438332'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '856996'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '250419'
+type = 'OPTIONAL'

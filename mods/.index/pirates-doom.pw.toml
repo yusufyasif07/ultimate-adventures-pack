@@ -1,0 +1,21 @@
+filename = 'piratesdoom-1.0.0-fabric.jar'
+name = "Pirate's Doom"
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'piratesdoom-1.0.0-fabric'
+
+[download]
+hash = 'e4bf9adac37d98b1d5c8a1237ee4a9a6f98113d9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5108232
+project-id = 974110
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

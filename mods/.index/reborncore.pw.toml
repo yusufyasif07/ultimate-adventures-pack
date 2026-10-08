@@ -1,0 +1,21 @@
+filename = 'RebornCore-5.8.14.jar'
+name = 'Reborn Core'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'RebornCore 5.8.14'
+
+[download]
+hash = '37ecbb813d15e5bd347da2c39227c194673e1948'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6788255
+project-id = 237903
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

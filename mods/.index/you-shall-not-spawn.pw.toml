@@ -1,0 +1,21 @@
+filename = 'YouShallNotSpawn-fabric-1.20.x-2.0.2.jar'
+name = 'You Shall Not Spawn! (Modpack Utils Series)'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[1.20.x-fabric] You Shall Not Spawn v2.0.2'
+
+[download]
+hash = '6ae7a59c180302a3dfa83611dbdbea6305a28547'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5820957
+project-id = 628744
+
+[[x-prismlauncher-dependencies]]
+addonId = '586157'
+type = 'REQUIRED'

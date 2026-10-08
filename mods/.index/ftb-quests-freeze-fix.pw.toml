@@ -1,0 +1,25 @@
+filename = 'ftbquestsfreezefix-fabric-1.0.0-1.20.1.jar'
+name = 'Quests Freeze Fix'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'FTBQuestsFreezeFix Fabric 1.0.0 for 1.20.1'
+
+[download]
+hash = 'd140b498b1a5c13f740af480bd00d46e9651d98d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5777387
+project-id = 1113794
+
+[[x-prismlauncher-dependencies]]
+addonId = '438496'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

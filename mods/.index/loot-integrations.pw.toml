@@ -1,0 +1,21 @@
+filename = 'lootintegrations-fabric-1.20.1-4.7.jar'
+name = 'Loot Integrations'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'lootintegrations-fabric-1.20.1-4.7.jar'
+
+[download]
+hash = '7d8bdb6c9613f9b5b4ea2623f402c17a6d12bdb8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6640997
+project-id = 580689
+
+[[x-prismlauncher-dependencies]]
+addonId = '326652'
+type = 'REQUIRED'

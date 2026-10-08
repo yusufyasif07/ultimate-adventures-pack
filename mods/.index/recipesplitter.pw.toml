@@ -1,0 +1,18 @@
+filename = 'recipesplitter-1.0-SNAPSHOT.jar'
+name = 'recipesplitter'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'recipesplitter-1.0-SNAPSHOT.jar'
+
+[download]
+hash = '5245c6245decec2b72c80375cdb6b3d5e356e7aa'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6655935
+project-id = 1287610

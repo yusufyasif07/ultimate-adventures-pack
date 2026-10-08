@@ -1,0 +1,41 @@
+filename = 'enchanted-fabric-1.20.1-3.1.14.jar'
+name = 'Enchanted: Witchcraft'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'enchanted-fabric-1.20.1-3.1.14.jar'
+
+[download]
+hash = '206b980524abd5bf4fd0603cd03664f8fcc96508'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8280422
+project-id = 560363
+
+[[x-prismlauncher-dependencies]]
+addonId = '547434'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '701213'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '393236'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '661293'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '388172'
+type = 'REQUIRED'

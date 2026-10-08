@@ -1,0 +1,18 @@
+filename = 'eternal_attributes-fabric-1.0.0-1.20.1.jar'
+name = 'Eternal Attributes'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Eternal Attributes v1.0.0'
+
+[download]
+hash = 'b256a1e8c45eba5e576b0b8165b0e9cf90024f0f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6100715
+project-id = 1181731

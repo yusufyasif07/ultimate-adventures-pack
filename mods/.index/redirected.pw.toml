@@ -1,0 +1,25 @@
+filename = 'redirected-fabric-1.0.0-1.20.1.jar'
+name = 'Redirected'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Redirected Fabric 1.0.0 for 1.20.1'
+
+[download]
+hash = '3f7ced13e94394b12cb6d6092aba7cf0d884b748'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6148846
+project-id = 1191845
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1104882'
+type = 'REQUIRED'

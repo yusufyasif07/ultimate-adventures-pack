@@ -1,0 +1,21 @@
+filename = 'emi_enchanting-0.1.2+1.20.1.jar'
+name = 'EMI Enchanting'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'emi_enchanting-0.1.2+1.20.1.jar'
+
+[download]
+hash = 'dbc3c4acecdce9b083cde7b91cc95e5ba57b3892'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5733127
+project-id = 936713
+
+[[x-prismlauncher-dependencies]]
+addonId = '580555'
+type = 'REQUIRED'

@@ -1,0 +1,29 @@
+filename = 'almostunified-fabric-1.20.1-0.11.0.jar'
+name = 'Almost Unified'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'AlmostUnified-Fabric-1.20.1-0.11.0'
+
+[download]
+hash = 'ecdeda6f53f373321011acfde3fc4e4d3cf0c652'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7430992
+project-id = 633823
+
+[[x-prismlauncher-dependencies]]
+addonId = '238086'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '310111'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'OPTIONAL'

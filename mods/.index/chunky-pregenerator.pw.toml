@@ -1,0 +1,18 @@
+filename = 'Chunky-1.3.146.jar'
+name = 'Chunky (Fabric)'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Chunky 1.3.146'
+
+[download]
+hash = 'b5672d69dc2b210ab2165a27afc03a424fa2b46a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5320021
+project-id = 433175

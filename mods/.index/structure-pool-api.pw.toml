@@ -1,0 +1,21 @@
+filename = 'structure_pool_api-1.0+1.20.1.jar'
+name = 'Structure Pool API'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'structure_pool_api-1.0+1.20.1.jar'
+
+[download]
+hash = '4af199a3930dc5b1d343a7824b69063d240f0c0f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4818011
+project-id = 927915
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

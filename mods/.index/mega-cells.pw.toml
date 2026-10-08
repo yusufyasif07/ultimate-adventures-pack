@@ -1,0 +1,29 @@
+filename = 'megacells-fabric-2.4.6-1.20.1.jar'
+name = 'MEGA Cells'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.4.6 (Fabric 1.20.1)'
+
+[download]
+hash = '5838fad5b38552b607d93bb8c1fc6040929b2c55'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6175007
+project-id = 622112
+
+[[x-prismlauncher-dependencies]]
+addonId = '459929'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '610632'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '223794'
+type = 'REQUIRED'

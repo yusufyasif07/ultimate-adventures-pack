@@ -1,0 +1,21 @@
+filename = 'cherishedworlds-fabric-6.1.7+1.20.1.jar'
+name = 'Cherished Worlds'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'cherishedworlds-fabric-6.1.7+1.20.1.jar'
+
+[download]
+hash = 'da9ecf9e350accf60a2f428217f336631b03d603'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5955877
+project-id = 308240
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

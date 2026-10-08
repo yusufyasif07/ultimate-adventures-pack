@@ -1,0 +1,21 @@
+filename = 'advancednetherite-fabric-2.1.3-1.20.1.jar'
+name = 'Advanced Netherite (Fabric)'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[1.20.1] 2.1.3 - Advanced Netherite (Fabric)'
+
+[download]
+hash = 'f5a8f912232ccaeac0e2167f2e9347b5da1bb26e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5401036
+project-id = 547881
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

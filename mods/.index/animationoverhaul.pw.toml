@@ -1,0 +1,21 @@
+filename = 'Animation_Overhaul-fabric-1.20.x-1.3.1.jar'
+name = 'Animation Overhaul'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[1.20.x-fabric] Animation Overhaul v1.3.1'
+
+[download]
+hash = '04c95790d4ab2f0a29709f446b4bac0577866f3c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5422339
+project-id = 1028436
+
+[[x-prismlauncher-dependencies]]
+addonId = '586157'
+type = 'REQUIRED'

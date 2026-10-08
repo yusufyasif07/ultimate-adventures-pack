@@ -1,0 +1,21 @@
+filename = 'recipeessentials-fabric-1.20.1-4.7.jar'
+name = 'Recipe Essentials'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'recipeessentials-fabric-1.20.1-4.7.jar'
+
+[download]
+hash = 'fda9c8c593cdf94238eef410b8a173612b6694fc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8464001
+project-id = 907856
+
+[[x-prismlauncher-dependencies]]
+addonId = '326652'
+type = 'REQUIRED'

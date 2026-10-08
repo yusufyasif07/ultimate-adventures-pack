@@ -1,0 +1,29 @@
+filename = 'Boat-Item-View-Fabric-1.20.1-0.0.5.jar'
+name = 'Boat Item View'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Boat-Item-View-Fabric-1.20.1-0.0.5.jar'
+
+[download]
+hash = 'c71b4fa8fd4ca580f39f94f278c1864c3befca51'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4590983
+project-id = 482160
+
+[[x-prismlauncher-dependencies]]
+addonId = '308702'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'EMBEDDED'

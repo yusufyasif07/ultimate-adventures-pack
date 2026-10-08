@@ -1,0 +1,18 @@
+filename = 'modernfix-fabric-5.24.3+mc1.20.1.jar'
+name = 'ModernFix'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'modernfix-fabric-5.24.3+mc1.20.1.jar'
+
+[download]
+hash = '4709074c94ed778bb6f8bdf2fe94a426b48bec25'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6766125
+project-id = 790626

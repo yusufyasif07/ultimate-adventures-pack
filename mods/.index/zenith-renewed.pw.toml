@@ -1,0 +1,45 @@
+filename = 'zenith_renewed-2.0.2.jar'
+name = 'Zenith Renewed'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Zenith Renewed 2.0.2'
+
+[download]
+hash = '6d6524da092a9bf81f08b921b21cca21a83ebfd7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8187964
+project-id = 1514479
+
+[[x-prismlauncher-dependencies]]
+addonId = '393236'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '853197'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1514461'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '250419'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '310111'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '580555'
+type = 'OPTIONAL'

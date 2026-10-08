@@ -1,0 +1,25 @@
+filename = 'transmog-fabric-1.3.0+1.20.jar'
+name = 'Transmog'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Fabric] Transmog 1.3.0+1.20'
+
+[download]
+hash = 'abb0563086c258941355b4f092b3a4c18b91896f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5285006
+project-id = 848032
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '308702'
+type = 'OPTIONAL'

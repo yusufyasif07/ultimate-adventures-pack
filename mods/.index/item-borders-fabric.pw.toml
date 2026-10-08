@@ -1,0 +1,18 @@
+filename = 'ItemBorders-1.20.1-fabric-1.2.2.jar'
+name = 'Item Borders [Fabric]'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ItemBorders-1.20.1-fabric-1.2.2.jar'
+
+[download]
+hash = '37dce3e1ff7fe7d1577365e0ddec257c7fa1e275'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5108408
+project-id = 541604

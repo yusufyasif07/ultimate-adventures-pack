@@ -1,0 +1,18 @@
+filename = 'resourcefulconfig-fabric-1.20.1-2.1.3.jar'
+name = 'Resourceful Config'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Fabric] Resourceful Config 2.1.3'
+
+[download]
+hash = 'd351fd7247c8adc0fe41d6b3a04bf869fdf4ddbc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6223996
+project-id = 714059

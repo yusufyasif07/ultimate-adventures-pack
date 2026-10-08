@@ -1,0 +1,25 @@
+filename = 'visuality-0.7.1+1.20.jar'
+name = 'Visuality'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[1.20] Visuality 0.7.1'
+
+[download]
+hash = 'a4a5fc1edae49126432fc903dd6fdbb88b7251ed'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4760021
+project-id = 521126
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'REQUIRED'

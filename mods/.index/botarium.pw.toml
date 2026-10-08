@@ -1,0 +1,21 @@
+filename = 'botarium-fabric-1.20.1-2.3.4.jar'
+name = 'Botarium'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Fabric] Botarium 2.3.4'
+
+[download]
+hash = '20e1c12cd5e4b4127c7b20ab7e7f81e7119dbf8b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5486071
+project-id = 704113
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

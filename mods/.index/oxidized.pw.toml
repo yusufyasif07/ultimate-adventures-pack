@@ -1,0 +1,18 @@
+filename = 'oxidized-1.8.2.jar'
+name = 'Oxidized'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Oxidized 1.8.2 (1.20.1)'
+
+[download]
+hash = '4a558272d318212a92bf81ceaa7bb78d865582aa'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4598127
+project-id = 506426

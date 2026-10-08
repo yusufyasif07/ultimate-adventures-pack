@@ -1,0 +1,25 @@
+filename = 'despawntweaks-fabric-1.0.0-1.20.1.jar'
+name = 'Despawn Tweaks'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'DespawnTweaks Fabric 1.0.0 for 1.20.1'
+
+[download]
+hash = '19627abbc7329f92a3e8a01f0d8085c82496139b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6145372
+project-id = 1191080
+
+[[x-prismlauncher-dependencies]]
+addonId = '1104882'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

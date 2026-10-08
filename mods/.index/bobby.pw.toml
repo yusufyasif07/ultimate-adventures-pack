@@ -1,0 +1,33 @@
+filename = 'bobby-5.0.1.1.jar'
+name = 'Bobby'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'bobby-5.0.1.1.jar'
+
+[download]
+hash = '510663fedcc0c693c24003377e4f54c56f182a2e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8417437
+project-id = 409301
+
+[[x-prismlauncher-dependencies]]
+addonId = '308702'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '383301'
+type = 'EMBEDDED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '394468'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'OPTIONAL'

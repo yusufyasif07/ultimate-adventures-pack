@@ -1,0 +1,21 @@
+filename = 'indium-1.0.36+mc1.20.1.jar'
+name = 'Indium'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Indium 1.0.36 for Minecraft 1.20.x / Sodium 0.5.11'
+
+[download]
+hash = 'd824614e7a173d273167969f427702f51846aca7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6237037
+project-id = 459496
+
+[[x-prismlauncher-dependencies]]
+addonId = '394468'
+type = 'REQUIRED'

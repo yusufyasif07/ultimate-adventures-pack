@@ -1,0 +1,21 @@
+filename = 'OnlyExcavators-1.20.1-1.0.1.jar'
+name = 'Only Excavators'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'OnlyExcavators-1.20.1-1.0.1-Fabric'
+
+[download]
+hash = '9cbe062685a8b8b502a2d0b4a1bd958c80897fda'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8801645
+project-id = 916271
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

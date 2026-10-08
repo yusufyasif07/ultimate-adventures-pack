@@ -1,0 +1,32 @@
+{
+	"server": {
+		// Knockback resistance multiplier granted by the Tie accessory (0.0 = 0% resistance, 1.0 = 100% resistance). (Type: double)
+		"Tie_Knockback_Resistance": 1.0,
+		// Whether wearing a tie named [matej] grants void fall damage protection. (Type: boolean)
+		"Enable_Tie_Void_Immunity": false,
+		// Whether the Man Power effect grants damage-cancelling invincibility. (Type: boolean)
+		"Enable_Man_Power_Invincibility": true,
+		// Duration of the Afterlife effect's invulnerability window in ticks. (Type: int)
+		"Afterlife_Duration": 1200,
+		// Whether the Afterlife effect grants full invulnerability while active. (Type: boolean)
+		"Enable_Afterlife_Invulnerability": true,
+		// Whether wearing a tie caps accumulated Man Power damage for cooldown purposes (disable to make the Tie purely cosmetic for this mechanic). (Type: boolean)
+		"Enable_Tie_Damage_Cap": true,
+		// Duration in ticks of the Man Power effect granted by shot items (Testosterone Shot, Trenbolone Shot, Better Trenbolone Shot). Base mod hardcodes 6000. (Type: int)
+		"Shot_Effect_Duration": 6000,
+		// Extra amplifier levels added on top of each shot item's own base amplifier. (Type: int)
+		"Shot_Effect_Amplifier_Bonus": 0,
+		// Duration in ticks of the Man Power effect granted by eating Testosterone Pill / Protein Bar. Base mod hardcodes 6000. (Type: int)
+		"Food_Effect_Duration": 6000,
+		// Extra amplifier levels added on top of the food's own base amplifier. (Type: int)
+		"Food_Effect_Amplifier_Bonus": 0,
+		// Duration in ticks of the Man Power effect granted by drinking a Testosterone Potion. Base mod hardcodes 12000. (Type: int)
+		"Potion_Effect_Duration": 12000,
+		// Extra amplifier levels added on top of the Testosterone Potion's own base amplifier. (Type: int)
+		"Potion_Effect_Amplifier_Bonus": 0,
+		// Duration in ticks of the Resistance effect granted by drinking a Beer Mug. Base mod hardcodes 3600. (Type: int)
+		"Beer_Effect_Duration": 3600,
+		// Amplifier of the Resistance effect granted by drinking a Beer Mug. Base mod hardcodes 1 (Resistance II). (Type: int)
+		"Beer_Effect_Amplifier": 0
+	}
+}

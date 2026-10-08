@@ -1,0 +1,21 @@
+filename = 'immersive_melodies-0.5.0+1.20.1-fabric.jar'
+name = 'Immersive Melodies'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Fabric 1.20.1] Immersive Melodies - 0.5.0'
+
+[download]
+hash = 'cb7ba6d18367584e98d8cc18d39df1029471d75d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6538665
+project-id = 904471
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

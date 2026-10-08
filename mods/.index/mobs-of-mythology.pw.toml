@@ -1,0 +1,29 @@
+filename = 'mobs_of_mythology-fabric-1.20.1-2.1.2.jar'
+name = 'Mobs of Mythology'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Mobs of Mythology 2.1.2'
+
+[download]
+hash = '5a0f34cdb6d43c5d6a6417997d9d8c4dffab890c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6390992
+project-id = 699989
+
+[[x-prismlauncher-dependencies]]
+addonId = '661293'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '817423'
+type = 'REQUIRED'

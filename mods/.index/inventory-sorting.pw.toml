@@ -1,0 +1,18 @@
+filename = 'InventorySorter-1.9.0-1.20.jar'
+name = 'Inventory Sorting'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'InventorySorter-1.9.0-1.20.jar'
+
+[download]
+hash = '19b4af69600fc940112f36a3256d492670d8d4c5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4597704
+project-id = 325471

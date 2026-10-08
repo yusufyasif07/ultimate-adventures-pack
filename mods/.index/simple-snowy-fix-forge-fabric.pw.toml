@@ -1,0 +1,32 @@
+filename = 'simple_snowy_fix-fabric-1.19-1.21-2.1.5.jar'
+name = 'Simple Snowy Fix (Forge / Fabric)'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'simple_snowy_fix-fabric-1.19-1.21-2.1.5.jar'
+
+[download]
+hash = 'dd9ac62ab49cd4b36790b83cee259b819927ecd1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7205119
+project-id = 1211256

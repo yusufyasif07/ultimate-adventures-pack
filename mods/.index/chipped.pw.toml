@@ -1,0 +1,29 @@
+filename = 'chipped-fabric-1.20.1-3.0.7.jar'
+name = 'Chipped'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Fabric] Chipped 3.0.7'
+
+[download]
+hash = 'add35e79f6a930825e4dbe77d5d0468fb96c533f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5813139
+project-id = 456956
+
+[[x-prismlauncher-dependencies]]
+addonId = '841890'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '570073'
+type = 'REQUIRED'

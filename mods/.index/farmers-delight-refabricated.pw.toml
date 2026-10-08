@@ -1,0 +1,41 @@
+filename = 'FarmersDelight-1.20.1-2.4.1+refabricated.jar'
+name = "Farmer's Delight Refabricated"
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "Farmer's Delight Refabricated 2.4.1 - 1.20.1"
+
+[download]
+hash = 'b8dded252730b2d47655813dde9d743785c0b107'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7199661
+project-id = 993166
+
+[[x-prismlauncher-dependencies]]
+addonId = '696251'
+type = 'EMBEDDED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '310111'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '580555'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '239197'
+type = 'OPTIONAL'

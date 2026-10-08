@@ -1,0 +1,18 @@
+filename = 'toofast-fabric-1.20-1.2.0.jar'
+name = 'Too Fast'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'toofast-fabric-1.20-1.2.0.jar'
+
+[download]
+hash = 'f28b24f929ffbf960e096fa0327d0d318cb851b3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4628061
+project-id = 550678

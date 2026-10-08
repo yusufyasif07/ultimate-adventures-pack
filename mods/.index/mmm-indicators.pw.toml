@@ -1,0 +1,18 @@
+filename = 'Mmm_Indicators-MC1.20.1-1.0.0.jar'
+name = 'Mmm Indicators'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'Fabric 1.20.1'
+
+[download]
+hash = 'd6119227a11e1e15f9de11af0995fbecb1e6b297'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5054147
+project-id = 965802

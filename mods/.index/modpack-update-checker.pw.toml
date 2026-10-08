@@ -1,0 +1,21 @@
+filename = 'modpack-update-checker-1.20.1-fabric-0.15.6.jar'
+name = 'Modpack Update Checker'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '[1.20.1] Modpack Update Checker 0.15.6 for Fabric'
+
+[download]
+hash = '5acd6bafbdde41d3d6b025772b4eacce5a710e0f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6681425
+project-id = 847414
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

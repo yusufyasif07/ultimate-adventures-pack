@@ -1,0 +1,18 @@
+filename = 'cardinal-components-api-5.2.3.jar'
+name = 'Cardinal Components API'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'cardinal-components-api-5.2.3.jar'
+
+[download]
+hash = 'd0d687d8fc3f367bf696fa0059bccdf0591c51f4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6064429
+project-id = 318449

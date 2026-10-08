@@ -1,0 +1,47 @@
+["Testosterone Effect"]
+	#Duration of invincibility per level of testosterone in ticks.
+	#Range: > 0
+	Duration = 40
+	#By how much is damage taken multiplied. (affects cooldown duration)
+	#Range: > 1
+	Multiplier = 10
+	#The damage limit when using testosterone and a tie.
+	#Range: > 1
+	"Damage Limit" = 100
+["Roid Rage Mechanics"]
+	#Maximum speed achieved per level of roid rage.
+	#Range: > 0
+	"Max Speed" = 200
+	#The speed that needs to be achieved to get abilities. (running on fluids, high jumping)
+	#Range: > 0
+	"Ability Speed" = 50
+	#How much does the speed counter affect jump height.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"Jump Height" = 0.012
+	#How much does the speed counter affect speed.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"Speed Multiplier" = 0.0015
+	#How far you jump with the roid rage effect.
+	#Range: 0.0 ~ 10.0
+	"In Air Multiplier" = 0.5
+	#Duration of the trenbolone trail
+	#Range: > 0
+	"Trail Duration" = 5
+	#Radius of the ground slam.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"Ground Slam Radius" = 4.0
+	#Radius of the ground slam.
+	"Allow Elytra" = true
+["John Rock"]
+	#How many John rocks can get powered from 1 source.
+	#Range: > 4
+	"Powered Amount" = 4096
+	#Should it also convert vertically
+	Vertical = false
+	#Range of conversion of John rocks
+	#Range: > 1
+	"Conversion Range" = 3
+[Rat]
+	#How much faster the rat goes when ridden and boosted using cheese on a stick.
+	#Range: 1.0 ~ 1.7976931348623157E308
+	"Speed Multiplier" = 5.0

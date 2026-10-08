@@ -1,0 +1,33 @@
+filename = 'bpmelodies-fabric-1.20.1-1.0.2.jar'
+name = 'Immersive Melodies in Backpacks'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'BP Melodies v1.0.2 (Fabric)'
+
+[download]
+hash = '87143de8600be96ef9ba7b1702ef6f3a5deb537f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8565335
+project-id = 1550169
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '541171'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '904471'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '979322'
+type = 'OPTIONAL'

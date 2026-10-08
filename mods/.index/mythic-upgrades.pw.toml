@@ -1,0 +1,37 @@
+filename = 'mythicupgrades-4.2.0+mc1.20.1.jar'
+name = 'Mythic Upgrades'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Mythic Upgrades 4.2.0 / 1.20.1'
+
+[download]
+hash = '20977e8848b8920e6559c2d5af588594bd593b04'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5700925
+project-id = 663567
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '532610'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '547434'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1014057'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '906394'
+type = 'REQUIRED'

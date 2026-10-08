@@ -1,0 +1,61 @@
+filename = 'lmft-1.1.1+1.21.9-fabric.jar'
+name = 'Load My F***ing Tags'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.17.1',
+    '1.18-Snapshot',
+    '1.18',
+    '1.18.1',
+    '1.18.2',
+    '1.19-Snapshot',
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3-Snapshot',
+    '1.19.3',
+    '1.19.4-Snapshot',
+    '1.19.4',
+    '1.20-Snapshot',
+    '1.20',
+    '1.20.1',
+    '1.20.2-Snapshot',
+    '1.20.2',
+    '1.20.3-Snapshot',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5-Snapshot',
+    '1.20.5',
+    '1.20.6',
+    '1.21-Snapshot',
+    '1.21',
+    '1.21.1-Snapshot',
+    '1.21.1',
+    '1.21.2-Snapshot',
+    '1.21.2',
+    '1.21.3',
+    '1.21.4-Snapshot',
+    '1.21.4',
+    '1.21.5-Snapshot',
+    '1.21.5',
+    '1.21.6-snapshot',
+    '1.21.6',
+    '1.21.7',
+    '1.21.8',
+    '1.21.9-snapshot',
+    '1.21.9',
+    '1.21.10'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'LMFT Fabric 1.1.1 for Minecraft 1.21.9'
+
+[download]
+hash = '9ec52b054e91c7f0a0a37edd4b2a3832699135dc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7084358
+project-id = 656346

@@ -1,0 +1,25 @@
+filename = 'copycats-3.0.10+mc.1.20.1-fabric.jar'
+name = 'Create: Copycats+'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'copycats-3.0.10+mc.1.20.1-fabric'
+
+[download]
+hash = '63b396c6abaeba52eeb403cb095682a603700629'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8822429
+project-id = 968398
+
+[[x-prismlauncher-dependencies]]
+addonId = '238222'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'REQUIRED'

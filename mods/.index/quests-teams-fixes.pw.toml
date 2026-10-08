@@ -1,0 +1,21 @@
+filename = 'quests_teams_fixes-fabric-1.0.2+1.20.1.jar'
+name = 'Quests & Teams Fixes'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'QTF 1.0.2 - Fabric 1.20.1'
+
+[download]
+hash = '4bcd7b7e3ce02a114545e7bad52786cfb90a9de6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8841935
+project-id = 1653311
+
+[[x-prismlauncher-dependencies]]
+addonId = '1576101'
+type = 'REQUIRED'

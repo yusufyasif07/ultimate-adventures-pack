@@ -1,0 +1,21 @@
+filename = 'Obscure-API-16.jar'
+name = 'Obscure API [Fabric Edition]'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Obscure API 16'
+
+[download]
+hash = '0272d0e5ddddd63a57b27130f3e317efb60ef509'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4656918
+project-id = 891234
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

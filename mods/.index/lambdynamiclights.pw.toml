@@ -1,0 +1,25 @@
+filename = 'lambdynamiclights-4.4.0+1.20.1.jar'
+name = 'LambDynamicLights'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'LambDynamicLights 4.4.0 (1.20.1)'
+
+[download]
+hash = 'eeab178cb91f18bc72f990c2097b5f0103f01c06'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7010532
+project-id = 393442
+
+[[x-prismlauncher-dependencies]]
+addonId = '308702'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

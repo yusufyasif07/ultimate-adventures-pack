@@ -1,0 +1,18 @@
+filename = 'cable-fixes-for-prom-1.1.0.jar'
+name = 'Cable Fixes for Prom'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'cable-fixes-for-prom-1.1.0.jar'
+
+[download]
+hash = '3d2811b4930070c98df9f16b7e3b6d179a5c7818'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8327579
+project-id = 1484275

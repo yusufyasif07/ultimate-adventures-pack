@@ -1,0 +1,21 @@
+filename = 'azurelibarmor-fabric-1.20.1-2.0.14.jar'
+name = 'AzureLib Armor'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'fabric 2.0.14'
+
+[download]
+hash = 'df49117310e310999c5508a36acbf15e7d1319bf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6004944
+project-id = 912767
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

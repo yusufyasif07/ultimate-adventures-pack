@@ -1,0 +1,776 @@
+{
+	/* Rules for enchantment compatibilities and incompatibilities.
+	   
+	   Fields:
+	     - allowed: Forced COMPATIBLE with this enchantment (overrides vanilla restrictions).
+	     - restricted: Forced INCOMPATIBLE (takes absolute precedence over vanilla and allowed).
+	   Notes:
+	     - All entries with invalid registry IDs get ignored.
+	     - Rules are bidirectional: adding "minecraft:infinity" to "minecraft:mending"
+	       automatically makes "minecraft:mending" compatible with "minecraft:infinity".
+	*/
+	"rules": {
+		"ad_astra_giselle_addon:acid_rain_proof": {
+			"allowed": [],
+			"restricted": []
+		},
+		"ad_astra_giselle_addon:gravity_normalizing": {
+			"allowed": [],
+			"restricted": []
+		},
+		"ad_astra_giselle_addon:space_breathing": {
+			"allowed": [],
+			"restricted": []
+		},
+		"ad_astra_giselle_addon:space_fire_proof": {
+			"allowed": [],
+			"restricted": []
+		},
+		"archon:arcane": {
+			"allowed": [],
+			"restricted": []
+		},
+		"archon:reaping": {
+			"allowed": [],
+			"restricted": []
+		},
+		"azurelib:incendiaryenchantment": {
+			"allowed": [],
+			"restricted": []
+		},
+		"betterarcheology:penetrating_strike": {
+			"allowed": [],
+			"restricted": []
+		},
+		"betterarcheology:soaring_winds": {
+			"allowed": [],
+			"restricted": []
+		},
+		"betterarcheology:tunneling": {
+			"allowed": [],
+			"restricted": []
+		},
+		"betterend:end_veil": {
+			"allowed": [],
+			"restricted": []
+		},
+		"betternether:obsidian_breaker": {
+			"allowed": [],
+			"restricted": []
+		},
+		"betternether:ruby_fire": {
+			"allowed": [],
+			"restricted": []
+		},
+		"combatroll:acrobat": {
+			"allowed": [],
+			"restricted": []
+		},
+		"combatroll:longfooted": {
+			"allowed": [],
+			"restricted": []
+		},
+		"combatroll:multi_roll": {
+			"allowed": [],
+			"restricted": []
+		},
+		"create:capacity": {
+			"allowed": [],
+			"restricted": []
+		},
+		"create:potato_recovery": {
+			"allowed": [],
+			"restricted": []
+		},
+		"death_knights:decaying": {
+			"allowed": [],
+			"restricted": []
+		},
+		"deeperdarker:catalysis": {
+			"allowed": [],
+			"restricted": []
+		},
+		"deeperdarker:sculk_smite": {
+			"allowed": [],
+			"restricted": []
+		},
+		"estrogen:uwufy_curse": {
+			"allowed": [],
+			"restricted": []
+		},
+		"extraspellattributes:battlerouse": {
+			"allowed": [
+				"extraspellattributes:warding",
+				"extraspellattributes:suppression",
+				"extraspellattributes:spellbreak",
+				"extraspellattributes:glancingblow",
+				"extraspellattributes:defiance"
+			],
+			"restricted": []
+		},
+		"extraspellattributes:defiance": {
+			"allowed": [
+				"extraspellattributes:warding",
+				"extraspellattributes:suppression",
+				"extraspellattributes:spellbreak",
+				"extraspellattributes:glancingblow",
+				"extraspellattributes:battlerouse"
+			],
+			"restricted": []
+		},
+		"extraspellattributes:glancingblow": {
+			"allowed": [
+				"minecraft:protection",
+				"minecraft:projectile_protection",
+				"extraspellattributes:warding",
+				"extraspellattributes:suppression",
+				"extraspellattributes:spellbreak",
+				"extraspellattributes:battlerouse",
+				"extraspellattributes:defiance"
+			],
+			"restricted": []
+		},
+		"extraspellattributes:spellbreak": {
+			"allowed": [
+				"extraspellattributes:warding",
+				"extraspellattributes:suppression",
+				"extraspellattributes:glancingblow",
+				"extraspellattributes:battlerouse",
+				"extraspellattributes:defiance"
+			],
+			"restricted": []
+		},
+		"extraspellattributes:suppression": {
+			"allowed": [
+				"extraspellattributes:warding",
+				"extraspellattributes:spellbreak",
+				"extraspellattributes:glancingblow",
+				"extraspellattributes:battlerouse",
+				"extraspellattributes:defiance"
+			],
+			"restricted": []
+		},
+		"extraspellattributes:warding": {
+			"allowed": [
+				"extraspellattributes:suppression",
+				"extraspellattributes:spellbreak",
+				"extraspellattributes:glancingblow",
+				"extraspellattributes:battlerouse",
+				"extraspellattributes:defiance"
+			],
+			"restricted": []
+		},
+		"farmersdelight:backstabbing": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcda:bag_of_souls": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcda:burning": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcda:chilling": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcda:cowardice": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcda:deflect": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcda:fire_focus": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcda:fire_trail": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcda:food_reserves": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcda:frenzied": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcda:heal_allies": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcda:lucky_explorer": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcda:poison_focus": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcda:potion_barrier": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcda:reckless": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcda:recycler": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcda:snowball": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcda:surprise_gift": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcda:swiftfooted": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:accelerate": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:ambush": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:anima_conduit": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:bonus_shot": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:chain_reaction": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:chains": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:charge": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:committed": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:critical_hit": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:dynamo": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:echo": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:enigma_resonator": {
+			"allowed": [],
+			"restricted": [
+				"minecraft:power"
+			]
+		},
+		"mcdw:exploding": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:freezing": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:fuse_shot": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:gravity": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:growing": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:guarding_strike": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:leeching": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:overcharge": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:pain_cycle": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:phantoms_mark": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:prospector": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:radiance": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:rampaging": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:replenish": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:ricochet": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:rushdown": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:shared_pain": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:shockwave": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:smiting": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:soul_devourer": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:swirling": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:thundering": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:weakening": {
+			"allowed": [],
+			"restricted": []
+		},
+		"mcdw:wild_rage": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:aqua_affinity": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:bane_of_arthropods": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:binding_curse": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:blast_protection": {
+			"allowed": [
+				"minecraft:projectile_protection",
+				"minecraft:protection",
+				"extraspellattributes:warding",
+				"extraspellattributes:suppression",
+				"extraspellattributes:spellbreak",
+				"extraspellattributes:glancingblow",
+				"extraspellattributes:battlerouse",
+				"extraspellattributes:defiance"
+			],
+			"restricted": []
+		},
+		"minecraft:channeling": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:depth_strider": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:efficiency": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:feather_falling": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:fire_aspect": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:fire_protection": {
+			"allowed": [
+				"minecraft:projectile_protection",
+				"minecraft:protection",
+				"extraspellattributes:warding",
+				"extraspellattributes:suppression",
+				"extraspellattributes:spellbreak",
+				"extraspellattributes:glancingblow",
+				"extraspellattributes:battlerouse",
+				"extraspellattributes:defiance"
+			],
+			"restricted": []
+		},
+		"minecraft:flame": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:fortune": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:frost_walker": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:impaling": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:infinity": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:knockback": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:looting": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:loyalty": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:luck_of_the_sea": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:lure": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:mending": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:multishot": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:piercing": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:power": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:projectile_protection": {
+			"allowed": [
+				"minecraft:protection",
+				"extraspellattributes:warding",
+				"extraspellattributes:suppression",
+				"extraspellattributes:spellbreak",
+				"extraspellattributes:glancingblow",
+				"extraspellattributes:battlerouse",
+				"extraspellattributes:defiance"
+			],
+			"restricted": []
+		},
+		"minecraft:protection": {
+			"allowed": [
+				"extraspellattributes:battlerouse",
+				"extraspellattributes:defiance",
+				"extraspellattributes:glancingblow",
+				"extraspellattributes:spellbreak",
+				"extraspellattributes:suppression",
+				"extraspellattributes:warding"
+			],
+			"restricted": []
+		},
+		"minecraft:punch": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:quick_charge": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:respiration": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:riptide": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:sharpness": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:silk_touch": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:smite": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:soul_speed": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:sweeping": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:swift_sneak": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:thorns": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:unbreaking": {
+			"allowed": [],
+			"restricted": []
+		},
+		"minecraft:vanishing_curse": {
+			"allowed": [],
+			"restricted": []
+		},
+		"more_rpg_classes:elemental": {
+			"allowed": [],
+			"restricted": []
+		},
+		"obscure_api:distance": {
+			"allowed": [],
+			"restricted": []
+		},
+		"obscure_api:fast_spin": {
+			"allowed": [],
+			"restricted": []
+		},
+		"obscure_api:mirror": {
+			"allowed": [],
+			"restricted": []
+		},
+		"shield_overhaul:vigor": {
+			"allowed": [],
+			"restricted": []
+		},
+		"soulsweapons:chain_lightning": {
+			"allowed": [],
+			"restricted": []
+		},
+		"soulsweapons:tether": {
+			"allowed": [],
+			"restricted": []
+		},
+		"spell_engine:spell_infinity": {
+			"allowed": [],
+			"restricted": []
+		},
+		"spell_power:critical_chance": {
+			"allowed": [],
+			"restricted": []
+		},
+		"spell_power:critical_damage": {
+			"allowed": [],
+			"restricted": []
+		},
+		"spell_power:energize": {
+			"allowed": [],
+			"restricted": []
+		},
+		"spell_power:haste": {
+			"allowed": [],
+			"restricted": []
+		},
+		"spell_power:magic_protection": {
+			"allowed": [
+				"minecraft:projectile_protection",
+				"minecraft:protection",
+				"extraspellattributes:warding",
+				"extraspellattributes:suppression",
+				"extraspellattributes:spellbreak",
+				"extraspellattributes:glancingblow",
+				"extraspellattributes:battlerouse",
+				"extraspellattributes:defiance"
+			],
+			"restricted": []
+		},
+		"spell_power:soulfrost": {
+			"allowed": [],
+			"restricted": []
+		},
+		"spell_power:spell_power": {
+			"allowed": [],
+			"restricted": []
+		},
+		"spell_power:sunfire": {
+			"allowed": [],
+			"restricted": []
+		},
+		"supplementaries:stasis": {
+			"allowed": [],
+			"restricted": []
+		},
+		"the_bumblezone:comb_cutter": {
+			"allowed": [],
+			"restricted": []
+		},
+		"the_bumblezone:hive_lifeline": {
+			"allowed": [],
+			"restricted": []
+		},
+		"the_bumblezone:neurotoxins": {
+			"allowed": [],
+			"restricted": []
+		},
+		"the_bumblezone:potent_poison": {
+			"allowed": [],
+			"restricted": []
+		},
+		"things:retribution": {
+			"allowed": [],
+			"restricted": []
+		},
+		"veinmining:vein_mining": {
+			"allowed": [],
+			"restricted": []
+		},
+		"yigd:soulbound": {
+			"allowed": [],
+			"restricted": []
+		},
+		"zenith:bane_of_illagers": {
+			"allowed": [],
+			"restricted": []
+		},
+		"zenith:berserkers_fury": {
+			"allowed": [],
+			"restricted": []
+		},
+		"zenith:chainsaw": {
+			"allowed": [],
+			"restricted": []
+		},
+		"zenith:chromatic": {
+			"allowed": [],
+			"restricted": []
+		},
+		"zenith:crescendo": {
+			"allowed": [],
+			"restricted": []
+		},
+		"zenith:earths_boon": {
+			"allowed": [],
+			"restricted": []
+		},
+		"zenith:endless_quiver": {
+			"allowed": [],
+			"restricted": []
+		},
+		"zenith:exploitation": {
+			"allowed": [],
+			"restricted": []
+		},
+		"zenith:growth_serum": {
+			"allowed": [],
+			"restricted": []
+		},
+		"zenith:icy_thorns": {
+			"allowed": [],
+			"restricted": []
+		},
+		"zenith:infusion": {
+			"allowed": [],
+			"restricted": []
+		},
+		"zenith:knowledge": {
+			"allowed": [],
+			"restricted": []
+		},
+		"zenith:life_mending": {
+			"allowed": [],
+			"restricted": []
+		},
+		"zenith:miners_fervor": {
+			"allowed": [],
+			"restricted": []
+		},
+		"zenith:natures_blessing": {
+			"allowed": [],
+			"restricted": []
+		},
+		"zenith:obliteration": {
+			"allowed": [],
+			"restricted": []
+		},
+		"zenith:rebounding": {
+			"allowed": [],
+			"restricted": []
+		},
+		"zenith:reflective": {
+			"allowed": [],
+			"restricted": []
+		},
+		"zenith:scavenger": {
+			"allowed": [],
+			"restricted": []
+		},
+		"zenith:shield_bash": {
+			"allowed": [],
+			"restricted": []
+		},
+		"zenith:spearfishing": {
+			"allowed": [],
+			"restricted": []
+		},
+		"zenith:splitting": {
+			"allowed": [],
+			"restricted": []
+		},
+		"zenith:stable_footing": {
+			"allowed": [],
+			"restricted": []
+		},
+		"zenith:tempting": {
+			"allowed": [],
+			"restricted": []
+		}
+	}
+}

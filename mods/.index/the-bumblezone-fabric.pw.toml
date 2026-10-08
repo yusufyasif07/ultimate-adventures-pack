@@ -1,0 +1,29 @@
+filename = 'the_bumblezone-7.9.10+1.20.1-fabric.jar'
+name = 'The Bumblezone (Fabric)'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'The Bumblezone v7.9.10 (1.20.1 MC Fabric)'
+
+[download]
+hash = '098927fb0155a28c4d3e6cea78b36a8be1af52d2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7670235
+project-id = 363949
+
+[[x-prismlauncher-dependencies]]
+addonId = '272515'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '488090'
+type = 'REQUIRED'

@@ -1,0 +1,89 @@
+filename = 'farmersknives-3.2.jar'
+name = "Farmer's Knives"
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'farmersknives-3.2.jar'
+
+[download]
+hash = 'eb79d941a640f7abe75e0ba453e9c894384c3d3b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5281259
+project-id = 628972
+
+[[x-prismlauncher-dependencies]]
+addonId = '375954'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '227639'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '361599'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '413596'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '993166'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '659011'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '627488'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '311377'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '508556'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '547881'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '247560'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '399221'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '427177'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '410127'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '424480'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '422310'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '552628'
+type = 'OPTIONAL'

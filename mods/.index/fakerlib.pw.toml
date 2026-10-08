@@ -1,0 +1,21 @@
+filename = 'fakerlib-0.1.5.jar'
+name = 'FakerLib'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'fakerlib-0.1.5'
+
+[download]
+hash = '1a7092b7986ebba46dbbfd7f7facb6401b57757a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6827475
+project-id = 853197
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

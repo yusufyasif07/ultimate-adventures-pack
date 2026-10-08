@@ -1,0 +1,21 @@
+filename = 'ExtendedAE-1.20-1.0.2-fabric.jar'
+name = 'ExtendedAE'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ExtendedAE-1.20-1.0.2-fabric.jar'
+
+[download]
+hash = '712edf150e4dc26d4a00476e4bd0d66392ebe3c8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5407904
+project-id = 892005
+
+[[x-prismlauncher-dependencies]]
+addonId = '223794'
+type = 'REQUIRED'

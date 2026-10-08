@@ -1,0 +1,29 @@
+filename = 'soulslike-weaponry-1.3.1-1.20.1-fabric.jar'
+name = "Marium's Soulslike Weaponry"
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[1.20.1] SW-1.3.1 fabric'
+
+[download]
+hash = 'd243144eda63a0f5bf1b416db2280f89d08ea4f5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6901268
+project-id = 632066
+
+[[x-prismlauncher-dependencies]]
+addonId = '280510'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '388172'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

@@ -1,0 +1,18 @@
+filename = 'integrated_api-fabric-1.20.1-1.8.2.jar'
+name = 'Integrated API'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'integrated_api-fabric-1.20.1-1.8.2.jar'
+
+[download]
+hash = 'c2ca577e00416a4479c7cb0845b0cc9a1f8c482e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8868045
+project-id = 817709

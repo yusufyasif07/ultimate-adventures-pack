@@ -1,0 +1,21 @@
+filename = 'veinmining-fabric-1.5.0+1.20.1.jar'
+name = 'Vein Mining (Fabric/Forge/Quilt)'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'veinmining-fabric-1.5.0+1.20.1.jar'
+
+[download]
+hash = 'ce6cb2fde3383c5a5e67e268d7ad060988a88e28'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5481490
+project-id = 431611
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

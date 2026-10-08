@@ -1,0 +1,21 @@
+filename = 'idwtialsimmoedm-0.3.1+1.20.jar'
+name = 'Idwtialsimmoedm'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[1.20+] Idwtialsimmoedm - 0.3.1'
+
+[download]
+hash = '492d28f486f5c55dc235be01842d6522bd5cc18c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5456303
+project-id = 629373
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'OPTIONAL'

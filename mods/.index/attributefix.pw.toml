@@ -1,0 +1,18 @@
+filename = 'AttributeFix-Fabric-1.20.1-21.0.5.jar'
+name = 'AttributeFix'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'AttributeFix-Fabric-1.20.1-21.0.5.jar'
+
+[download]
+hash = '181c94abb434890b4d1422544b8e400b73b6f8c6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7612292
+project-id = 280510

@@ -1,0 +1,18 @@
+filename = 'emicompat-1.1.3.jar'
+name = 'EMI-Compat'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'emicompat-1.1.3.jar'
+
+[download]
+hash = 'afa0d5ada942516d0ddf472053bbd2433bc65fb5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8693574
+project-id = 1514817

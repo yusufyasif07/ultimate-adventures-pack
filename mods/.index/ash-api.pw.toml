@@ -1,0 +1,25 @@
+filename = 'ash_api-fabric-3.0.2+1.20.1.jar'
+name = 'Ash API'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Fabric 1.20.1] v3.0.2'
+
+[download]
+hash = '349651ce1d440231aca8c7bf8c6a32f58db26b79'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4653715
+project-id = 838498
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '308702'
+type = 'OPTIONAL'

@@ -1,0 +1,44 @@
+["Beard / Mustache"]
+	#Whether the beard / mustache should render on yourself and others.
+	"Beard / Mustache" = true
+["Testosterone Button"]
+	#Move left and right.
+	"X Offset" = -23
+	#Move up and down.
+	"Y Offset" = 24
+	#Show the button on the create main menu.
+	"Show Button" = true
+["Testosterone Overlay"]
+	#Blue component of the overlay while invincible.
+	#Range: 0 ~ 255
+	"Blue Of Invincible" = 119
+	#Green component of the overlay while invincible.
+	#Range: 0 ~ 255
+	"Green Of Cooldown" = 255
+	#Render the invincibility overlay.
+	"Render While Invincible" = true
+	#Red component of the overlay while invincible.
+	#Range: 0 ~ 255
+	"Red Of Invincible" = 255
+	#Red component of the overlay while invincible.
+	#Range: 0 ~ 255
+	"Red Of Cooldown" = 255
+	#Green component of the overlay while invincible.
+	#Range: 0 ~ 255
+	"Green Of Invincible" = 209
+	#Blue component of the overlay while invincible.
+	#Range: 0 ~ 255
+	"Blue Of Cooldown" = 0
+	#Render the overlay while testosterone is on cooldown.
+	"Render While On Cooldown" = true
+["Roid Rage Visuals"]
+	#Render the trenbolone trail.
+	"Render Trail" = true
+	#The offset of the trail
+	#Range: -2048.0 ~ 2048.0
+	"Trail Offset" = 0.0
+	#Display the speed on the action bar.
+	"Display Speed" = false
+	#How close to the player the trail should render.
+	#Range: 0.0 ~ 1.7976931348623157E308
+	"Minimum Render Distance" = 2.0

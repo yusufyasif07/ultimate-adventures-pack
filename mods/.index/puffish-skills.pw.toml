@@ -1,0 +1,21 @@
+filename = 'puffish_skills-0.17.3-1.20-fabric.jar'
+name = "Pufferfish's Skills [Fabric & Forge & NeoForge]"
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'puffish_skills-0.17.3-1.20-fabric.jar'
+
+[download]
+hash = '0c0877e606fbf7bd2f2189ccc2faefabe239c004'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7672793
+project-id = 835091
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

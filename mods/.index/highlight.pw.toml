@@ -1,0 +1,18 @@
+filename = 'highlight-fabric-1.20-2.0.1.jar'
+name = 'Highlight'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Fabric] Highlight 2.0.1'
+
+[download]
+hash = '5714ec9fb4fac05cec51494a8ffa0d43ffca527f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4671081
+project-id = 667245

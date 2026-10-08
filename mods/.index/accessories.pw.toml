@@ -1,0 +1,25 @@
+filename = 'accessories-fabric-1.0.0-beta.48+1.20.1.jar'
+name = 'Accessories'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '[1.20.1] Accessories [Fabric] - 1.0.0'
+
+[download]
+hash = '38e3d368d97914966bdda5c6719f77c7f1f9a58d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7164886
+project-id = 938917
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'REQUIRED'

@@ -1,0 +1,18 @@
+filename = 'wraith-waystones-3.3.3+mc1.20.1.jar'
+name = 'Wraith Waystones'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Wraith Waystones 3.3.3 - MC1.20.1'
+
+[download]
+hash = 'ac9364386ec7d2db1701c02f8774085ee7ebe6c7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6300601
+project-id = 410902

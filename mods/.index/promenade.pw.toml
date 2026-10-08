@@ -1,0 +1,45 @@
+filename = 'promenade-4.1.1.jar'
+name = 'Promenade'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Promenade v4.1.1'
+
+[download]
+hash = 'a3386873538f4ca28f4761456d7461a4c846d892'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4794732
+project-id = 399648
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'EMBEDDED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '399309'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '852512'
+type = 'EMBEDDED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '385230'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '554586'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '248787'
+type = 'OPTIONAL'

@@ -1,0 +1,25 @@
+filename = 'PuzzlesLib-v8.1.33-1.20.1-Fabric.jar'
+name = 'Puzzles Lib'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[FABRIC] [1.20.1] PuzzlesLib-v8.1.33'
+
+[download]
+hash = '13282e818c9b5d20ba9f50949e3776d678d6926d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6918566
+project-id = 495476
+
+[[x-prismlauncher-dependencies]]
+addonId = '547434'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

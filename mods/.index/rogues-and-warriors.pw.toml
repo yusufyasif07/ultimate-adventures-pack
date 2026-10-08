@@ -1,0 +1,29 @@
+filename = 'rogues-1.2.0+1.20.1.jar'
+name = 'Rogues & Warriors (RPG Series)'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'rogues-1.2.0+1.20.1.jar'
+
+[download]
+hash = 'de43a6cfb24127ecb47aeca18af5f201c47bc61b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6097303
+project-id = 1048409
+
+[[x-prismlauncher-dependencies]]
+addonId = '912767'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '807653'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

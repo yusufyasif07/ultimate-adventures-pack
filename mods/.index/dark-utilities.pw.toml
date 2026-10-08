@@ -1,0 +1,29 @@
+filename = 'DarkUtilities-Fabric-1.20.1-17.0.6.jar'
+name = 'Dark Utilities'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'DarkUtilities-Fabric-1.20.1-17.0.6.jar'
+
+[download]
+hash = '6434399f1cc8daa89636aca81e434cbb925e93b8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7612438
+project-id = 242195
+
+[[x-prismlauncher-dependencies]]
+addonId = '228525'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '396234'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '393149'
+type = 'REQUIRED'

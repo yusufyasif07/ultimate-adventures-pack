@@ -1,0 +1,21 @@
+filename = 'EMIProfessions-fabric-1.20.1-1.0.4.jar'
+name = 'EMI professions (EMIP)'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'EMIProfessions-fabric-1.20.1-1.0.4.jar'
+
+[download]
+hash = '6b08bae3a67a79ac08a68d017cebf77fb04a3122'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7279970
+project-id = 1065904
+
+[[x-prismlauncher-dependencies]]
+addonId = '580555'
+type = 'REQUIRED'

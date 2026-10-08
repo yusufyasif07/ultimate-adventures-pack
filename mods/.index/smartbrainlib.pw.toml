@@ -1,0 +1,18 @@
+filename = 'SmartBrainLib-fabric-1.20.1-1.15.jar'
+name = 'SmartBrainLib (Forge/Fabric/Quilt)'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'SmartBrainLib Fabric 1.20.1-1.15'
+
+[download]
+hash = '6abaa9601d02c9941134fa310a7a3665d9bad285'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5654969
+project-id = 661293

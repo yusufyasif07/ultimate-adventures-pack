@@ -1,0 +1,21 @@
+filename = 'VillagersPlus_3.1_(FABRIC)_for_1.20.1.jar'
+name = 'VillagersPlus (Fabric/Neoforge)'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'VillagersPlus 3.1 (FABRIC) for 1.20.1'
+
+[download]
+hash = '9f761a0446dddf49db5e1067c5bcbcfc71d4d9b8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4996993
+project-id = 809542
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

@@ -1,0 +1,18 @@
+filename = 'BuildGuide-1.20-0.4.9.jar'
+name = 'Build Guide'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Build Guide 0.4.9 - 1.20 & 1.20.1'
+
+[download]
+hash = '22557b6d2bb302ae109dc270e31477198e97c04d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8457830
+project-id = 465690

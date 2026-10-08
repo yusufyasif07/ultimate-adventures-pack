@@ -1,0 +1,21 @@
+filename = 'balm-fabric-1.20.1-7.3.38.jar'
+name = 'Balm (Outdated Versions)'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'balm-fabric-1.20.1-7.3.38.jar'
+
+[download]
+hash = '833370d2a28be5673537b177e332918668e829e0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7420614
+project-id = 500525
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

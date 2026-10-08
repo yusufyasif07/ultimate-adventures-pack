@@ -1,0 +1,49 @@
+filename = 'simplyskills-1.7.2+1.20.1.jar'
+name = 'Simply Skills [FABRIC]'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Simply Skills v1.7.2+1.20.1'
+
+[download]
+hash = '34cf56aa27a6b238e1a4ef9d4d179902f7dd1b3f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6282680
+project-id = 890301
+
+[[x-prismlauncher-dependencies]]
+addonId = '991341'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '835091'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '608261'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '659887'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '771265'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '807653'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '856548'
+type = 'OPTIONAL'

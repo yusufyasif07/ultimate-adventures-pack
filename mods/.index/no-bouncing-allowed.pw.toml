@@ -1,0 +1,18 @@
+filename = 'no-bouncy-arrows-1.1.0.jar'
+name = 'No-Bouncing-Allowed!'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'no-bouncy-arrows-1.1.0.jar'
+
+[download]
+hash = '58883006d9e08ca52bccee621360fe463294b87c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9011736
+project-id = 1718169

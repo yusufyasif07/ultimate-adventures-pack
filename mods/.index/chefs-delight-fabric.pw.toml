@@ -1,0 +1,18 @@
+filename = 'chefs-delight-1.0.4-fabric-1.20.1.jar'
+name = "Chef's Delight [Fabric] - Farmer's Delight Villagers"
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "Chef's Delight v1.0.4-mc1.20.1"
+
+[download]
+hash = '8742572ac85ac1fe28c6f3cf19909583dd3fc718'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7335194
+project-id = 736986

@@ -1,0 +1,18 @@
+filename = 'ServerBrowser-1.20.1-FABRIC-1.3.1.jar'
+name = 'Server Browser - In Game Server Listings'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ServerBrowser-1.20.1-FABRIC-1.3.1.jar'
+
+[download]
+hash = '2e5d52037a8e8009f3e1fde1cef4dd2acbd85cb5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6146644
+project-id = 825617

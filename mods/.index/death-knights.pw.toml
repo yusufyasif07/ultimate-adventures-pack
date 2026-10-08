@@ -1,0 +1,41 @@
+filename = 'death_knights-fabric-1.0.0-1.20.1.jar'
+name = 'Death Knights (RPG Series)'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Fabric 1.20.1] Death Knights v1.0.0'
+
+[download]
+hash = '61511112de79a2e712b9a7520e9b7807ad19c190'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6109209
+project-id = 968119
+
+[[x-prismlauncher-dependencies]]
+addonId = '1181731'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '639842'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '912767'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '807653'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '775518'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '586157'
+type = 'REQUIRED'

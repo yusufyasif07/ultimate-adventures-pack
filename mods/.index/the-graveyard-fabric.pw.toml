@@ -1,0 +1,18 @@
+filename = 'The_Graveyard_3.1_(FABRIC)_for_1.20.1.jar'
+name = 'The Graveyard (FABRIC)'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'The Graveyard 3.1 (FABRIC) for 1.20.1'
+
+[download]
+hash = 'a5cb5de7f0cb9931cae5526eb310e4c3017b7cfe'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5113229
+project-id = 514468

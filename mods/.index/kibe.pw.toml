@@ -1,0 +1,33 @@
+filename = 'kibe-1.10.1-BETA+1.20.jar'
+name = 'Kibe Utilities'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'Kibe 1.10.1-BETA'
+
+[download]
+hash = 'cf5035be0524cd5e7447af39c752aae174c28b15'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4648536
+project-id = 388832
+
+[[x-prismlauncher-dependencies]]
+addonId = '310111'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '308769'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '359522'
+type = 'EMBEDDED'

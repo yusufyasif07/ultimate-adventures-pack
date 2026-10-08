@@ -1,0 +1,37 @@
+filename = 'better-nether-9.0.10.jar'
+name = 'BetterNether'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'betternether-9.0.10 [1.20.1]'
+
+[download]
+hash = '7247c4b3f319f828205fc9f195261c46a24280ec'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4971478
+project-id = 311377
+
+[[x-prismlauncher-dependencies]]
+addonId = '495191'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '440979'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '580555'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '310111'
+type = 'OPTIONAL'

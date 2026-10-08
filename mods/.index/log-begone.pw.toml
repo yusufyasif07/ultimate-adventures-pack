@@ -1,0 +1,21 @@
+filename = 'Log-Begone-Fabric-1.20.1-1.0.8.jar'
+name = 'Log Begone'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Log-Begone-Fabric-1.20.1-1.0.8.jar'
+
+[download]
+hash = 'f1c697ffcf7ec79e458b3af3d32392d75bf2caff'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4582965
+project-id = 623560
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

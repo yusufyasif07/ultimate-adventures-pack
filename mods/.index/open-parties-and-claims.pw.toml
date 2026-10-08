@@ -1,0 +1,25 @@
+filename = 'open-parties-and-claims-fabric-1.20.1-0.25.10.jar'
+name = 'Open Parties and Claims'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'fabric-1.20.1-0.25.10.jar'
+
+[download]
+hash = '364c93922de0c32d0222d4e9917ae09bfb9a9dc2'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7652874
+project-id = 636608
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '547434'
+type = 'REQUIRED'

@@ -1,0 +1,21 @@
+filename = 'connectivity-fabric-1.20.1-7.6.jar'
+name = 'Connectivity'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'connectivity-fabric-1.20.1-7.6.jar'
+
+[download]
+hash = '4b23cff87b1e23edb179868ee0eb58e4d34c98b6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7361211
+project-id = 470193
+
+[[x-prismlauncher-dependencies]]
+addonId = '326652'
+type = 'REQUIRED'

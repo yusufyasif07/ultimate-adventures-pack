@@ -1,0 +1,25 @@
+filename = 'minecells-2.0.0.jar'
+name = 'Mine Cells - Dead Cells Mod'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = 'minecells-2.0.0+1.20.1'
+
+[download]
+hash = '74ce0ae2e42f7d8b2a9497c3497c3f885bf773a9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6566117
+project-id = 618790
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '532610'
+type = 'REQUIRED'

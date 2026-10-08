@@ -1,0 +1,25 @@
+filename = 'accessories_tclayer-3.8.1-beta.14+1.20.1.jar'
+name = '[Deprecated] Trinkets Compat Layer for Accessories'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'Trinkets Compat 3.8.1 Layer Beta.14 for 1.20.1'
+
+[download]
+hash = 'd64fa7d29699e5cb0849cede205a9a2841ffad9b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5780755
+project-id = 1005680
+
+[[x-prismlauncher-dependencies]]
+addonId = '938917'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '341284'
+type = 'EMBEDDED'

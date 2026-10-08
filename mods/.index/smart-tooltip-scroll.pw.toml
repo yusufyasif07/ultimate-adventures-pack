@@ -1,0 +1,25 @@
+filename = 'smart_tooltip_scroll-fabric-2.4.0+1.20.1.jar'
+name = 'Smart Tooltip Scroll'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'STS 2.4.0 - Fabric 1.20.1'
+
+[download]
+hash = '8c3c0ea4c23f4d0aa0bb95f9485b5bf43d1d9ccc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 9016498
+project-id = 1576147
+
+[[x-prismlauncher-dependencies]]
+addonId = '667299'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1576101'
+type = 'REQUIRED'

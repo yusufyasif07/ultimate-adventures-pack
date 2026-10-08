@@ -1,0 +1,21 @@
+filename = 'TerraBlender-fabric-1.20.1-3.0.1.10.jar'
+name = 'TerraBlender (Fabric)'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'TerraBlender Fabric 1.20.1-3.0.1.10'
+
+[download]
+hash = 'bc61e5ac5ec75f33827b65942df6d533c8d166e3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6290449
+project-id = 565956
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

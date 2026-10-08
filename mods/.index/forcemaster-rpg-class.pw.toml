@@ -1,0 +1,33 @@
+filename = 'forcemaster-class-mod-1.2.7-1.20.1.jar'
+name = 'Forcemaster (RPG Series Plus)'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'forcemaster-class-mod-1.2.7-1.20.1'
+
+[download]
+hash = '446feb2dbe3a3695ea60f4fc3d11468ec106e8ef'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8607476
+project-id = 992388
+
+[[x-prismlauncher-dependencies]]
+addonId = '912767'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '923030'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '639842'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '807653'
+type = 'REQUIRED'

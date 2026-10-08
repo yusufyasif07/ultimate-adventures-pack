@@ -1,0 +1,18 @@
+filename = 'GrassOverhaul-Fabric-1.20.1-v25.01.31.jar'
+name = 'Grass Overhaul (Sod)'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Fabric/Quilt] Grass Overhaul 1.20.1 v25.01.31'
+
+[download]
+hash = '6f34f8fd97556fd92e0d622dc1cb0986fed8f79f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6142991
+project-id = 640973

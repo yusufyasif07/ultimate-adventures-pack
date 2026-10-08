@@ -1,0 +1,25 @@
+filename = 'Decorative Blocks-fabric-1.20.1-4.0.3.jar'
+name = 'Decorative Blocks (Fork)'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Decorative Blocks-fabric-1.20.1-4.0.3.jar'
+
+[download]
+hash = '5f2f0ed8fc1e032502bcb5ad5a8069d7a832caca'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4771799
+project-id = 892002
+
+[[x-prismlauncher-dependencies]]
+addonId = '547434'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'

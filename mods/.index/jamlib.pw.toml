@@ -1,0 +1,25 @@
+filename = 'jamlib-fabric-1.3.5+1.20.1.jar'
+name = 'JamLib'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'V1.3.5+1.20.1 (Fabric 1.20.1)'
+
+[download]
+hash = '55850420addaeed88101d63eb1c96d4d924bf456'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6421939
+project-id = 623764
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'

@@ -1,0 +1,25 @@
+filename = 'applied-botanics-fabric-1.5.2.jar'
+name = 'Applied Botanics Addon'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.5.2 [FABRIC]'
+
+[download]
+hash = '87a4bc95365d9473f09741db373d92493b3bed35'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7427982
+project-id = 610632
+
+[[x-prismlauncher-dependencies]]
+addonId = '223794'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '421839'
+type = 'REQUIRED'

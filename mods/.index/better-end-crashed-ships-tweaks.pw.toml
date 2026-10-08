@@ -1,0 +1,21 @@
+filename = 'betterend-crashed-ships-1.0.0.jar'
+name = 'BetterEnd Crashed Ships Tweaks'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'betterend-crashed-ships-1.0.0.jar'
+
+[download]
+hash = '63ea28f999b58d331f653d2611a414097d4ee6f4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5343797
+project-id = 1018676
+
+[[x-prismlauncher-dependencies]]
+addonId = '413596'
+type = 'REQUIRED'

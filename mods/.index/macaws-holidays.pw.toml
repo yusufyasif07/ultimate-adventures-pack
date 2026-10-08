@@ -1,0 +1,21 @@
+filename = 'mcw-holidays-1.1.2-mc1.20.1fabric.jar'
+name = "Macaw's Holidays"
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v1.1.2 / mc1.20.1 - Fabric'
+
+[download]
+hash = '18fcc81db1eb0f95b6fc87d1ee810f0562f18d4c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7304403
+project-id = 930232
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

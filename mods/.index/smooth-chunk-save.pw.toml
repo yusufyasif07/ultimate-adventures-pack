@@ -1,0 +1,18 @@
+filename = 'smoothchunk-fabric-1.20.1-4.1.jar'
+name = 'Server Performance - Smooth Chunk Save'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'smoothchunk-fabric-1.20.1-4.1.jar'
+
+[download]
+hash = '1136d8d1ebc37dc7754f22ebe7ee24ac91166ce3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6296630
+project-id = 582327

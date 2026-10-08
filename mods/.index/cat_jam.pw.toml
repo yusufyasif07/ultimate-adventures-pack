@@ -1,0 +1,33 @@
+filename = 'cat_jam-fabric-mc1.20-1.3.1.jar'
+name = 'cat_jam'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Fabric 1.20.X] cat_jam v1.3.1'
+
+[download]
+hash = '2bcc06b3a2e191c965b8436b18bcd466220b49f9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5917470
+project-id = 859716
+
+[[x-prismlauncher-dependencies]]
+addonId = '865592'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '412082'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '549719'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

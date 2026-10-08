@@ -1,0 +1,18 @@
+filename = 'simplybows-opac-bridge-1.0.1.jar'
+name = 'simplybow opac fix'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'simplybows-opac-bridge-1.0.1.jar'
+
+[download]
+hash = '46e74c8a87b7d604ef865edb3e87337bc762de09'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8941749
+project-id = 1706285

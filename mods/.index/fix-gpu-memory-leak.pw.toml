@@ -1,0 +1,18 @@
+filename = 'gpumemleakfix-fabric-1.20.1-1.8.jar'
+name = 'fix GPU memory leak'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'gpumemleakfix-fabric-1.20.1-1.8.jar'
+
+[download]
+hash = 'f3cda542199d4344c317c464256a2a499a596431'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4884979
+project-id = 882495

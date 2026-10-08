@@ -1,0 +1,18 @@
+filename = 'emiffect-fabric-2.1.5+mc1.20.1.jar'
+name = 'EMIffect (Status Effects EMI Plugin)'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'emiffect-fabric-2.1.5+mc1.20.1.jar'
+
+[download]
+hash = '18711c0138626c1087836796074cc3a6bd83a0ca'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6840839
+project-id = 735528

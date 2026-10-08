@@ -1,0 +1,37 @@
+filename = 'paladins-1.4.0+1.20.1.jar'
+name = 'Paladins & Priests (RPG Series)'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'paladins-1.4.0+1.20.1.jar'
+
+[download]
+hash = '0285345ee8b3f4684a64b9e2c011b965e7d4b9a3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6097304
+project-id = 856548
+
+[[x-prismlauncher-dependencies]]
+addonId = '775518'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '807653'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '912767'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1048720'
+type = 'REQUIRED'

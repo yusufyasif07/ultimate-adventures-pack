@@ -1,0 +1,35 @@
+filename = 'Pehkui-3.8.3+1.14.4-1.21.jar'
+name = 'Pehkui'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.14.4',
+    '1.15.2',
+    '1.16.5',
+    '1.17.1',
+    '1.18.2',
+    '1.19.2',
+    '1.19.4',
+    '1.20.1',
+    '1.20.2',
+    '1.20.4',
+    '1.20.6',
+    '1.21',
+    '1.21.1'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[1.14.4 - 1.21] Pehkui 3.8.3'
+
+[download]
+hash = '3ce548910f0aa2cef79dc333982493ccf8d73a3e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5419266
+project-id = 319596
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

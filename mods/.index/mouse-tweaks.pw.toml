@@ -1,0 +1,25 @@
+filename = 'MouseTweaks-fabric-mc1.20-2.26.jar'
+name = 'Mouse Tweaks'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[1.20–1.20.4 Fabric] Mouse Tweaks 2.26'
+
+[download]
+hash = '6a6b977e671b1ab625e740fc70fb5300c21bb841'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5230279
+project-id = 60089
+
+[[x-prismlauncher-dependencies]]
+addonId = '308702'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

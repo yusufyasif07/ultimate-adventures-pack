@@ -1,0 +1,25 @@
+filename = 'ae2-emi-crafting-1.3.1.jar'
+name = 'AE2 EMI Crafting Integration'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ae2-emi-crafting-1.3.1.jar'
+
+[download]
+hash = '1a8d8e4a58c9be517c05c14f36c7d663f65a569f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5160115
+project-id = 923210
+
+[[x-prismlauncher-dependencies]]
+addonId = '223794'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '308702'
+type = 'OPTIONAL'

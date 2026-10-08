@@ -1,0 +1,18 @@
+filename = 'stateobserver-fabric-1.20.1-1.4.3.jar'
+name = 'StateObserver'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'stateobserver-fabric-1.20.1-1.4.3.jar'
+
+[download]
+hash = 'f243afd1975c5bd787c7117db8abe678a28db7d0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5983134
+project-id = 701213

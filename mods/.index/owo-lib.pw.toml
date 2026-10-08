@@ -1,0 +1,21 @@
+filename = 'owo-lib-0.11.2+1.20.jar'
+name = 'oωo (owo-lib)'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[1.20.1] oωo - 0.11.2'
+
+[download]
+hash = 'be88938ca5df78271e64bc9f85c3575754f33e2a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4749199
+project-id = 532610
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

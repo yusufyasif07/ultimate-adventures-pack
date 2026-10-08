@@ -1,0 +1,18 @@
+filename = 'Prominent_OST-GLOBAL-MC1.20.1-1.0.0.jar'
+name = 'Prominence Original Soundtrack'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Prominence OST | 1.20.1'
+
+[download]
+hash = '49e96f6600199775147a0047c566d5851199c3cb'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4888798
+project-id = 941248

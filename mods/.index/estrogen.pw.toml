@@ -1,0 +1,25 @@
+filename = 'estrogen-5.0.8+1.20.1-fabric.jar'
+name = 'Estrogen'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Estrogen 5.0.8+1.20.1 Fabric'
+
+[download]
+hash = 'c5172e3de883a59f44d7eb68fc5b3f60b41fb706'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7531003
+project-id = 850410
+
+[[x-prismlauncher-dependencies]]
+addonId = '1259952'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '341284'
+type = 'REQUIRED'

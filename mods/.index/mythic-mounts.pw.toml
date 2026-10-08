@@ -1,0 +1,29 @@
+filename = 'mythic-mounts-1.20.1-7.2.jar'
+name = 'Mythic Mounts'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'mythic-mounts-1.20.1-7.2.jar'
+
+[download]
+hash = '95e811ab49cb4fc579258270a84648c325a2b80a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4660884
+project-id = 517650
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '388172'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '393236'
+type = 'REQUIRED'

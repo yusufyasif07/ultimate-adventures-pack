@@ -1,0 +1,18 @@
+filename = 'no-report-button-fabric-1.5.0.jar'
+name = 'No Report Button'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1', '1.20.2', '1.20.3', '1.20.4', '1.20.5', '1.20.6' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v1.5.0-fabric'
+
+[download]
+hash = '11363303661a54cc14376e23cbc32c189dbae92a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4594976
+project-id = 658722

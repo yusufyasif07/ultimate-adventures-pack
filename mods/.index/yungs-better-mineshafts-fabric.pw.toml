@@ -1,0 +1,33 @@
+filename = 'YungsBetterMineshafts-1.20-Fabric-4.0.4.jar'
+name = "YUNG's Better Mineshafts (Fabric)"
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "[1.20] YUNG's Better Mineshafts v4.0.4 (Fabric)"
+
+[download]
+hash = 'dda3af404d6958f6fed882b8b4ae7827ac78944b'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4769064
+project-id = 373591
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '421649'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '308702'
+type = 'OPTIONAL'

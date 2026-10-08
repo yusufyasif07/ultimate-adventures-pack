@@ -1,0 +1,21 @@
+filename = 'ends_delight-refabricated-1.20.1-2.5.jar'
+name = "End's Delight"
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '(FDRF)ends_delight-refabricated-1.20.1-2.5.jar'
+
+[download]
+hash = '8e87b47ae494350297c6b936ddc0bdf6b44e85ff'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5891365
+project-id = 662675
+
+[[x-prismlauncher-dependencies]]
+addonId = '993166'
+type = 'REQUIRED'

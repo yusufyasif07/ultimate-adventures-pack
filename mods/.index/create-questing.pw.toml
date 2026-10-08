@@ -1,0 +1,21 @@
+filename = 'Create_Questing-FABRIC-1.20.1-1.0.0.jar'
+name = 'Create Questing'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Fabric 1.20.1 | v1.0.0'
+
+[download]
+hash = 'f06c3a1b395ed0f6f7c7bc9c10899e70d71c3bb1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5036927
+project-id = 591861
+
+[[x-prismlauncher-dependencies]]
+addonId = '586157'
+type = 'REQUIRED'

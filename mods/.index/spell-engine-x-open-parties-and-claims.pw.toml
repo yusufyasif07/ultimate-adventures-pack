@@ -1,0 +1,25 @@
+filename = 'Spell_Engine_OPAC_Compat-1.0.0.jar'
+name = 'Spell Engine x Open Parties and Claims'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.2', '1.20.1', '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v1.0.0'
+
+[download]
+hash = '08e32c38b022dff2cc8179550008ec63f79540a0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5728452
+project-id = 1103892
+
+[[x-prismlauncher-dependencies]]
+addonId = '807653'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '636608'
+type = 'REQUIRED'

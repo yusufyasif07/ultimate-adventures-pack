@@ -1,0 +1,18 @@
+filename = 'emitrades-fabric-1.2.1+mc1.20.1.jar'
+name = 'EMI Trades (Villager Trading EMI Plugin)'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Fabric/Quilt 1.20.1] 1.2.1'
+
+[download]
+hash = '72b51627c09e539e9f6194fc5aad862ff5f09461'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4901193
+project-id = 735523

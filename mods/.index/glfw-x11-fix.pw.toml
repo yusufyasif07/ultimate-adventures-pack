@@ -1,0 +1,18 @@
+filename = 'glfw-x11-fix-1.0.0.jar'
+name = 'GLFW X11 Fix'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19', '1.19.1', '1.19.2', '1.19.3', '1.19.4', '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'glfw-x11-fix-1.0.0.jar'
+
+[download]
+hash = '23287643c02f91f2b234b6d6b4904b41d13c771d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8834000
+project-id = 1686695

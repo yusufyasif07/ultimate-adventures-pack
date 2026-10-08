@@ -1,0 +1,29 @@
+filename = 'blur-3.1.0.jar'
+name = 'Blur+'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Blur 3.1.0 - 1.20'
+
+[download]
+hash = '3a0811af7f425daab896fbfc38898a22e7af39cf'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4578291
+project-id = 393563
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '488090'
+type = 'EMBEDDED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '385463'
+type = 'EMBEDDED'

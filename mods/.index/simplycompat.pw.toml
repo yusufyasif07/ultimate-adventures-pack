@@ -1,0 +1,18 @@
+filename = 'simplycompat-1.2.5.jar'
+name = 'Simplycompat'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'simplycompat-1.2.5.jar'
+
+[download]
+hash = '8dc2ccf846a3598dca9c285267ed19192da3d8a6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8939759
+project-id = 1702065

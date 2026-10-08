@@ -1,0 +1,25 @@
+filename = 'Aquamirae 6.jar'
+name = 'Aquamirae [Fabric Edition]'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Aquamirae 6 API16 (1.20.1)'
+
+[download]
+hash = '13feb2c346d372b3bec57f1ad2e151d87f65e5d6'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4656204
+project-id = 891257
+
+[[x-prismlauncher-dependencies]]
+addonId = '891234'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

@@ -1,0 +1,18 @@
+filename = 'coroutil-fabric-1.20.1-1.3.7.jar'
+name = 'CoroUtil'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'coroutil-fabric-1.20.1-1.3.7.jar'
+
+[download]
+hash = '0b9a1b0db34d1271fe7bcc4ec0e451c3fb25a04c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5110802
+project-id = 237749

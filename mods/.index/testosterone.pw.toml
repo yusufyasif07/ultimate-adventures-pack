@@ -1,0 +1,21 @@
+filename = 'testosterone-2.0.3.jar'
+name = 'Create: Testosterone'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'testosterone-2.0.3.jar'
+
+[download]
+hash = 'b7cb12ac91df489839726b9eb150dfea79179110'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8802723
+project-id = 1225057
+
+[[x-prismlauncher-dependencies]]
+addonId = '850410'
+type = 'OPTIONAL'

@@ -1,0 +1,25 @@
+filename = 'youre-in-grave-danger-fabric-2.0.16.jar'
+name = "You're in Grave Danger"
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "You're in Grave Danger [Fabric] 2.0.16"
+
+[download]
+hash = 'b396513f5e9bb8c2e0adf00e011011cf7d90a0b3'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6684120
+project-id = 544912
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

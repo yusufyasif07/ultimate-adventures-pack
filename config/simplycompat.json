@@ -1,0 +1,283 @@
+{
+  "powers": {
+    "simplyswords:active_defence": {
+      "enabled": true,
+      "rollWeight": 1
+    },
+    "simplyswords:float": {
+      "enabled": true,
+      "rollWeight": 1,
+      "procChance": 15
+    },
+    "simplyswords:greater_float": {
+      "enabled": true,
+      "rollWeight": 1,
+      "procChance": 15
+    },
+    "simplyswords:freeze": {
+      "enabled": true,
+      "rollWeight": 1,
+      "procChance": 15
+    },
+    "simplyswords:shielding": {
+      "enabled": true,
+      "rollWeight": 1,
+      "procChance": 15
+    },
+    "simplyswords:greater_shielding": {
+      "enabled": true,
+      "rollWeight": 1,
+      "procChance": 15
+    },
+    "simplyswords:slow": {
+      "enabled": true,
+      "rollWeight": 1,
+      "procChance": 50
+    },
+    "simplyswords:greater_slow": {
+      "enabled": true,
+      "rollWeight": 1,
+      "procChance": 50
+    },
+    "simplyswords:stoneskin": {
+      "enabled": true,
+      "rollWeight": 1,
+      "procChance": 15
+    },
+    "simplyswords:greater_stoneskin": {
+      "enabled": true,
+      "rollWeight": 1,
+      "procChance": 15
+    },
+    "simplyswords:swiftness": {
+      "enabled": true,
+      "rollWeight": 1,
+      "procChance": 15
+    },
+    "simplyswords:greater_swiftness": {
+      "enabled": true,
+      "rollWeight": 1,
+      "procChance": 15
+    },
+    "simplyswords:trailblaze": {
+      "enabled": true,
+      "rollWeight": 1,
+      "procChance": 15
+    },
+    "simplyswords:greater_trailblaze": {
+      "enabled": true,
+      "rollWeight": 1,
+      "procChance": 15
+    },
+    "simplyswords:weaken": {
+      "enabled": true,
+      "rollWeight": 1,
+      "procChance": 15
+    },
+    "simplyswords:greater_weaken": {
+      "enabled": true,
+      "rollWeight": 1,
+      "procChance": 15
+    },
+    "simplyswords:zephyr": {
+      "enabled": true,
+      "rollWeight": 1,
+      "procChance": 15
+    },
+    "simplyswords:greater_zephyr": {
+      "enabled": true,
+      "rollWeight": 1,
+      "procChance": 15
+    },
+    "simplyswords:frost_ward": {
+      "enabled": true,
+      "rollWeight": 1
+    },
+    "simplyswords:wildfire": {
+      "enabled": true,
+      "rollWeight": 1,
+      "procChance": 10
+    },
+    "simplyswords:unstable": {
+      "enabled": true,
+      "rollWeight": 1
+    },
+    "simplyswords:imbued": {
+      "enabled": true,
+      "rollWeight": 1,
+      "procChance": 15
+    },
+    "simplyswords:greater_imbued": {
+      "enabled": true,
+      "rollWeight": 1,
+      "procChance": 15
+    },
+    "simplyswords:stormlash": {
+      "enabled": true,
+      "rollWeight": 1,
+      "procChance": 20
+    },
+    "simplyswords:dancing_blades": {
+      "enabled": true,
+      "rollWeight": 1,
+      "procChance": 15
+    },
+    "simplyswords:faultline": {
+      "enabled": true,
+      "rollWeight": 1,
+      "procChance": 10
+    },
+    "simplyswords:runic_slash": {
+      "enabled": true,
+      "rollWeight": 1
+    },
+    "simplyswords:evocation": {
+      "enabled": true,
+      "rollWeight": 1
+    },
+    "simplyswords:sniffer_slam": {
+      "enabled": true,
+      "rollWeight": 1,
+      "procChance": 5
+    },
+    "simplyswords:pincushion": {
+      "enabled": true,
+      "rollWeight": 1
+    },
+    "simplyswords:greater_pincushion": {
+      "enabled": true,
+      "rollWeight": 1
+    },
+    "simplyswords:momentum": {
+      "enabled": true,
+      "rollWeight": 1
+    },
+    "simplyswords:greater_momentum": {
+      "enabled": true,
+      "rollWeight": 1
+    },
+    "simplyswords:ward": {
+      "enabled": true,
+      "rollWeight": 1
+    },
+    "simplyswords:immolation": {
+      "enabled": true,
+      "rollWeight": 1
+    },
+    "simplyswords:throwing": {
+      "enabled": true,
+      "rollWeight": 1
+    },
+    "simplyswords:echo": {
+      "enabled": true,
+      "rollWeight": 1
+    },
+    "simplyswords:berserk": {
+      "enabled": true,
+      "rollWeight": 1
+    },
+    "simplyswords:radiance": {
+      "enabled": true,
+      "rollWeight": 1
+    },
+    "simplyswords:onslaught": {
+      "enabled": true,
+      "rollWeight": 1
+    },
+    "simplyswords:nullification": {
+      "enabled": true,
+      "rollWeight": 1
+    },
+    "simplyswords:verdant_trail": {
+      "enabled": true,
+      "rollWeight": 1
+    },
+    "simplyswords:necromantic_arsenal": {
+      "enabled": true,
+      "rollWeight": 1,
+      "procChance": 10,
+      "activeAbilityProcChance": 10
+    },
+    "simplyswords:wolf_pack": {
+      "enabled": true,
+      "rollWeight": 1,
+      "procChance": 40,
+      "activeAbilityProcChance": 35
+    },
+    "simplyswords:goat_stampede": {
+      "enabled": true,
+      "rollWeight": 1,
+      "procChance": 15
+    },
+    "simplyswords:banehead_swarm": {
+      "enabled": true,
+      "rollWeight": 1
+    },
+    "simplyswords:wing_buffet": {
+      "enabled": true,
+      "rollWeight": 1,
+      "procChance": 15
+    },
+    "simplyswords:dragon_maw": {
+      "enabled": true,
+      "rollWeight": 1,
+      "procChance": 15
+    },
+    "simplyswords:precise": {
+      "enabled": false,
+      "rollWeight": 1,
+      "procChance": 30
+    },
+    "simplyswords:mighty": {
+      "enabled": false,
+      "rollWeight": 1,
+      "procChance": 30
+    },
+    "simplyswords:stealthy": {
+      "enabled": false,
+      "rollWeight": 1,
+      "procChance": 30
+    },
+    "simplyswords:renewed": {
+      "enabled": false,
+      "rollWeight": 1,
+      "procChance": 30
+    },
+    "simplyswords:accelerant": {
+      "enabled": false,
+      "rollWeight": 1
+    },
+    "simplyswords:leaping": {
+      "enabled": false,
+      "rollWeight": 1,
+      "procChance": 65
+    },
+    "simplyswords:spellshield": {
+      "enabled": false,
+      "rollWeight": 1,
+      "procChance": 15
+    },
+    "simplyswords:spellforged": {
+      "enabled": false,
+      "rollWeight": 1
+    },
+    "simplyswords:soulshock": {
+      "enabled": false,
+      "rollWeight": 1
+    },
+    "simplyswords:spellstandard": {
+      "enabled": false,
+      "rollWeight": 1,
+      "procChance": 10
+    },
+    "simplyswords:warstandard": {
+      "enabled": false,
+      "rollWeight": 1
+    },
+    "simplyswords:deception": {
+      "enabled": false,
+      "rollWeight": 1,
+      "procChance": 50
+    }
+  }
+}

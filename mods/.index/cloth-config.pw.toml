@@ -1,0 +1,18 @@
+filename = 'cloth-config-11.1.136-fabric.jar'
+name = 'Cloth Config API (Fabric/Forge/NeoForge)'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20-Snapshot', '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Fabric 1.20(.1)] v11.1.136'
+
+[download]
+hash = 'd5fe84a0cc9ed5c7290a76ba570e1f8716afecab'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5729104
+project-id = 348521

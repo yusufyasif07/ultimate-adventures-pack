@@ -1,0 +1,18 @@
+filename = 'Block Swap-fabric-1.20.1-5.0.0.0.jar'
+name = 'Block Swap (Fabric)'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Block Swap-fabric-1.20.1-5.0.0.0.jar'
+
+[download]
+hash = 'c1efa0ef991b8144b8aece91c3d8df956aa9717c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4598163
+project-id = 552471

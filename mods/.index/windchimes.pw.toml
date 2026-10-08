@@ -1,0 +1,21 @@
+filename = 'windchimes-1.2.4+1.20.jar'
+name = 'Windchimes'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v1.2.4'
+
+[download]
+hash = '98aa3508f6537ceddba1032812e4625df931f0f8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4662198
+project-id = 477895
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

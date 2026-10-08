@@ -1,0 +1,21 @@
+filename = 'kleeslabs-fabric-1.20-15.0.4.jar'
+name = 'KleeSlabs (Outdated Versions)'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'kleeslabs-fabric-1.20-15.0.4.jar'
+
+[download]
+hash = '6d48ad12a53b7ed9c6218da0eadf975b18ba1a26'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6119983
+project-id = 547695
+
+[[x-prismlauncher-dependencies]]
+addonId = '500525'
+type = 'REQUIRED'

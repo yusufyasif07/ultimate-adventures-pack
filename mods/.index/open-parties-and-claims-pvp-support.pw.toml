@@ -1,0 +1,29 @@
+filename = 'opacpvp-fabric-1.0.1-1.20.1.jar'
+name = 'Open Parties and Claims PvP Support'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Fabric 1.20.1 | v1.0.1'
+
+[download]
+hash = '202987c41993094dcea283e51f266f197381bfa7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6213620
+project-id = 1190669
+
+[[x-prismlauncher-dependencies]]
+addonId = '575305'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '586157'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '636608'
+type = 'REQUIRED'

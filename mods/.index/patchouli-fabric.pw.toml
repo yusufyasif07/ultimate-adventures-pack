@@ -1,0 +1,21 @@
+filename = 'Patchouli-1.20.1-85-FABRIC.jar'
+name = 'Patchouli (Fabric/Quilt)'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Patchouli-1.20.1-85-FABRIC.jar'
+
+[download]
+hash = '0a77a88d465f4b14c376cbafa5c393507a97fe21'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7731016
+project-id = 393236
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

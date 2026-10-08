@@ -1,0 +1,18 @@
+filename = 'newblahaj-1.1.1.jar'
+name = 'NewNeoBlåhaj'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'newblahaj-1.1.1.jar'
+
+[download]
+hash = 'dc1959b65afbc4350252462c5f915fb7d53ef383'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8762117
+project-id = 1541213

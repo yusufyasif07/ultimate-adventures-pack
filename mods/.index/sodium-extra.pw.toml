@@ -1,0 +1,33 @@
+filename = 'sodium-extra-0.5.9+mc1.20.1.jar'
+name = 'Sodium Extra'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Sodium Extra 0.5.9 for Minecraft 1.20.1'
+
+[download]
+hash = '0f97ec3f395b223848a63573b1a46cbecf97f19f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6298804
+project-id = 447673
+
+[[x-prismlauncher-dependencies]]
+addonId = '511319'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '455508'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '394468'
+type = 'REQUIRED'

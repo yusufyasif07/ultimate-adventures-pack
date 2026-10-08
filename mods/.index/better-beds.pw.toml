@@ -1,0 +1,21 @@
+filename = 'betterbeds-1.3.0-1.19.3.jar'
+name = 'Better Beds'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.3', '1.19.4', '1.20-Snapshot', '1.20', '1.20.1', '1.20.2', '1.20.3', '1.20.4' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Better Beds 1.3.0 - 1.19.3+'
+
+[download]
+hash = 'be8020ab06b679bb33f93a7e9ade8a783985eab0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4369573
+project-id = 443782
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

@@ -1,0 +1,21 @@
+filename = 'better-trim-tooltips-1.0.1.jar'
+name = 'Better Trim Tooltips'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.19.4-Snapshot', '1.19.4', '1.20-Snapshot', '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Better Trim Tooltips 1.0.1'
+
+[download]
+hash = '5cb640048145f647fd879d68b2db953607610c8e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4579455
+project-id = 868132
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

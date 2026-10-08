@@ -1,0 +1,21 @@
+filename = 'allthetrims-3.4.3-fabric+1.20.1.jar'
+name = 'All The Trims'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'allthetrims-3.4.3-fabric+1.20.1.jar'
+
+[download]
+hash = 'c9360422d9ccb4611a29de6c71e7f7aecd6d43a9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5425361
+project-id = 876154
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'

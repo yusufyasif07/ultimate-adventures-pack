@@ -1,0 +1,29 @@
+filename = 'fancymenu_fabric_3.7.0_MC_1.20.1.jar'
+name = 'FancyMenu'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Fabric] v3.7.0 MC 1.20.1'
+
+[download]
+hash = '463d81a560492e441b397852359dbcd12a04aa72'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6918983
+project-id = 367706
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '938643'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '416797'
+type = 'REQUIRED'

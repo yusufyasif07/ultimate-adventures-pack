@@ -1,0 +1,21 @@
+filename = 'loadmyresources_fabric_1.0.4-1_MC_1.20.jar'
+name = 'Load My Resources [Fabric]'
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[Fabric] v1.0.4-1 MC 1.20-1.20.1'
+
+[download]
+hash = '9d873d3ac0a95de8dcd29cdde362b7fe72c4dc04'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4583333
+project-id = 534835
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

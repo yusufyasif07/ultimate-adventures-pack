@@ -1,0 +1,18 @@
+filename = 'tlc-fabric-1.0.1-1.20.X.jar'
+name = 'The Lost Castle [Fabric]'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'The Lost Castle R1.0.1 (1.20.X)'
+
+[download]
+hash = 'f5ccb478e0bf9a8c38615858c830b75ee76767b1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4614802
+project-id = 687497

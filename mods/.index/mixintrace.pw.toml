@@ -1,0 +1,42 @@
+filename = 'mixintrace-1.1.1+1.17.jar'
+name = 'MixinTrace'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [
+    '1.17-Snapshot',
+    '1.17',
+    '1.17.1',
+    '1.18-Snapshot',
+    '1.18',
+    '1.18.1',
+    '1.18.2',
+    '1.19-Snapshot',
+    '1.19',
+    '1.19.1',
+    '1.19.2',
+    '1.19.3',
+    '1.19.4',
+    '1.20-Snapshot',
+    '1.20',
+    '1.20.1',
+    '1.20.2',
+    '1.20.3',
+    '1.20.4',
+    '1.20.5',
+    '1.20.6',
+    '1.21',
+    '1.21.1'
+]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.1 (Fabric/Quilt 1.17+)'
+
+[download]
+hash = '7fbb0130db0e427ee7180d304dfa65c46f0e3b69'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3831043
+project-id = 433447

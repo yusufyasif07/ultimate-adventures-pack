@@ -1,0 +1,18 @@
+filename = 'amecs-bundle-1.6.3+mc1.20.jar'
+name = 'Amecs (Fabric)'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[1.20-1.20.1] 1.6.3'
+
+[download]
+hash = '36bd030cbde20a5741fea088153c71f172ec152c'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7806395
+project-id = 324564

@@ -1,0 +1,25 @@
+filename = 'thermoo-2.3.3.jar'
+name = 'Thermoo'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Thermoo 2.3.3'
+
+[download]
+hash = '55b3ebab5898d078dd2a858015df67611553356f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5832380
+project-id = 846544
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '318449'
+type = 'REQUIRED'

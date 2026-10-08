@@ -1,0 +1,68 @@
+{
+	/* --------------------------------
+	   General Banner Settings
+	   --------------------------------
+	   Allow battle standard entities to receive healing from any source.
+	*/
+	"banner_healing_allowed": true,
+	/* --------------------------------
+	   Galeforce (Enigma)
+	   --------------------------------
+	   Haste amplifier granted to owner near Galeforce.
+	*/
+	"galeforce_haste_amplifier": 7,
+	// Radius around Galeforce in blocks to receive the Haste effect.
+	"galeforce_haste_radius": 3.0,
+	// AoE pull and effect radius for Galeforce.
+	"galeforce_aoe_radius": 2,
+	// Pain amplifier applied to targets.
+	"galeforce_pain_amplifier": 49,
+	/* --------------------------------
+	   Abyssal Standard (Harbinger)
+	   --------------------------------
+	   Haste amplifier granted to owner by Abyssal Standard.
+	*/
+	"abyssal_standard_haste_amplifier": 7,
+	// Radius around Abyssal Standard in blocks to receive the Haste effect.
+	"abyssal_standard_haste_radius": 3.0,
+	// Radius around Abyssal Standard in blocks for team Haste, aura damage and negative effects for enemies.
+	"abyssal_standard_aoe_radius": 6,
+	// Haste amplifier granted to nearby allies by Abyssal Standard.
+	"abyssal_standard_aoe_haste_amplifier": 2,
+	// Slowness amplifier applied to enemies in range.
+	"abyssal_standard_aoe_slowness_amplifier": 0,
+	/* --------------------------------
+	   Righteous Standard (Sunfire)
+	   --------------------------------
+	   Radius around Sunfire in blocks for team Strength, healing and aura damage.
+	*/
+	"sunfire_aoe_radius": 6,
+	// Strength amplifier granted to nearby allies by Sunfire.
+	"sunfire_strength_amplifier": 1,
+	/* --------------------------------
+	   Nullification Standard (Netherfused Gem Effect)
+	   --------------------------------
+	   Radius around Nullification Standard in blocks for removing buffs from enemies and debuffs from allies.
+	*/
+	"nullification_aoe_radius": 6,
+	// Prevents the Battle Fatigue harmful status effect from being applied to the caster. This enables instead an immutable internal cooldown system to handle Nullification Standard's cooldown.
+	"nullification_prevent_battle_fatigue": true,
+	// Cooldown in seconds before Nullification Standard can be summoned again. Only works when 'nullification_prevent_battle_fatigue' is set to true.
+	"nullification_cooldown": 40.0,
+	/* --------------------------------
+	   Bug Fixes
+	   --------------------------------
+	   Fix the Effect Stacking bug where a banner can maintain a higher amplifier than set in the config if you obtain it some other way (e.g. Enigma maintaining Twisted Blade's Haste 15 while the player is near Galeforce).
+	*/
+	"fix_status_effect_stacking": true,
+	// Fix Galeforce attacking its owner while they have the 'Elemental Vortex' status effect.
+	"fix_elemental_vortex_leak": true,
+	// Caps Icewhisper's Slowness debuff amplifier from stacking infinitely. Set to '-1' to disable the fix.
+	"icewhisper_slowness_cap": 3,
+	/* --------------------------------
+	   Compatibility
+	   --------------------------------
+	   Apply ReBalance global reduction and PvP multiplier to Battle Standard damage.
+	*/
+	"rebalance_compat_enabled": true
+}

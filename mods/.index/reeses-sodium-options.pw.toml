@@ -1,0 +1,29 @@
+filename = 'reeses_sodium_options-1.7.2+mc1.20.1-build.101.jar'
+name = "Reese's Sodium Options"
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = "Reese's Sodium Options 1.7.2 for Minecraft 1.20.1"
+
+[download]
+hash = '206f1b01b99ac3df99ddd84ed96b466a8700412d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5075462
+project-id = 511319
+
+[[x-prismlauncher-dependencies]]
+addonId = '455508'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '447673'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '394468'
+type = 'REQUIRED'

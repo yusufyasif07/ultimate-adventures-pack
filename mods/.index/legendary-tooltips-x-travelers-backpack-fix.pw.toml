@@ -1,0 +1,25 @@
+filename = 'ltxtbfix-1.20.1-fabric-1.0.2.jar'
+name = "Legendary Tooltips x Traveler's Backpack Fix"
+side = ''
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'ltxtbfix-1.20.1-fabric-1.0.2'
+
+[download]
+hash = '3b3c2bd8d2520f2a073ae4445995cb6cb1dcb0c0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7773429
+project-id = 1423123
+
+[[x-prismlauncher-dependencies]]
+addonId = '541171'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '539382'
+type = 'REQUIRED'

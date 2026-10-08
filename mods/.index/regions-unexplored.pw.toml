@@ -1,0 +1,29 @@
+filename = 'RegionsUnexploredFabric-0.5.6+1.20.1.jar'
+name = 'Regions Unexplored'
+side = 'server'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '(Fabric 1.20.1) Regions Unexplored v0.5.6'
+
+[download]
+hash = '3b5df7c76431a47d80669f5c1be07136c3e160c0'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5558172
+project-id = 659110
+
+[[x-prismlauncher-dependencies]]
+addonId = '565956'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '547434'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'

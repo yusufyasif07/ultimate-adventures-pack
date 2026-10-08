@@ -1,0 +1,25 @@
+filename = 'language-reload-1.7.5+1.20.1.jar'
+name = 'Language Reload'
+side = ''
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'language-reload-1.7.5+1.20.1.jar'
+
+[download]
+hash = 'd825fcd495bcf53ab9ed3974a57f87b4d56d6a26'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7213313
+project-id = 527334
+
+[[x-prismlauncher-dependencies]]
+addonId = '306612'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '308702'
+type = 'OPTIONAL'
