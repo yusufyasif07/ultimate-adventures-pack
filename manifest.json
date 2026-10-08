@@ -6,12 +6,6 @@
     "serverAddress":  "example.playit.gg:12345",
     "files":  [
                   {
-                      "path":  ".gitignore",
-                      "url":  ".gitignore",
-                      "sha256":  "1fdff6b27338444108b0d5966752213daa2df7cacb8395060634c0500f22f3b9",
-                      "size":  36
-                  },
-                  {
                       "path":  "config/aaa_particles-client.toml",
                       "url":  "config/aaa_particles-client.toml",
                       "sha256":  "2bd86407172f130a7ba1fd2cc6e9910516d53f9a9b9f95e6e36b8985243c7e79",
