@@ -3,8 +3,14 @@
     "packVersion":  "4.1.2",
     "minecraftVersion":  "1.20.1",
     "loader":  "Fabric",
-    "serverAddress":  "example.playit.gg:12345",
+    "serverAddress":  "starfish-vowel.tun.ply.gg",
     "files":  [
+                  {
+                      "path":  "servers.dat",
+                      "url":  "servers.dat",
+                      "sha256":  "829102a2e7cde88f3c5c8d43ae5188712baea3471ad947889800a0e30ecc937a",
+                      "size":  90
+                  },
                   {
                       "path":  "config/aaa_particles-client.toml",
                       "url":  "config/aaa_particles-client.toml",
